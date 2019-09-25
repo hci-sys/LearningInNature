@@ -21,6 +21,9 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Project Proposal: "projectproposal"
+  Team Contract: "teamcontract"
+  Contextual Inquiry Plan: "contextualinquiry"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
