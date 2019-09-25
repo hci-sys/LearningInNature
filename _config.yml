@@ -20,7 +20,7 @@ description: HCI Course Project Page
 
 # List of links in the navigation bar
 navbar-links:
-  Team: "aboutme"
+  Team: "team"
   Project Proposal: "projectproposal"
   Team Contract: "teamcontract"
   Contextual Inquiry Plan: "contextualinquiry"
