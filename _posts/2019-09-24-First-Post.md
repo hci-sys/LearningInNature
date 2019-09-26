@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Team Logo!
+image: /img/logo.jpg
 ---
 
-This is my first post, how exciting!
+![Team Logo](/img/logo.jpeg)
