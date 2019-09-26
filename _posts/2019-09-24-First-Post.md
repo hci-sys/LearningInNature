@@ -4,4 +4,4 @@ title: Team Logo!
 image: /img/logo.jpg
 ---
 
-![Team Logo](/img/logo.jpg)
+![Logo](/img/logo.jpg)
