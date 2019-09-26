@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team Contract
+bigimg: "/img/perry-grone-lbLgFFlADrY-unsplash.jpg"
 ---
 
 ### Guiding Principles
