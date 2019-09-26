@@ -25,10 +25,10 @@ bigimg: /img/team.jpg
 - If group members are too busy during a certain time, more work can be given to the other members - with the expectation that that person will help out others when they are busy  
 
 ### Team Plan
-1. Come together and discuss availability, other course workload
-2. Look at assignment(s) and decide what roles/work fit best 
-3. Delegate work, write out what each person is doing either in a document or through online messenger 
-4. Hold each other accountable and have check-ins at least a day before the project is due  
+- Come together and discuss availability, other course workload
+- Look at assignment(s) and decide what roles/work fit best 
+- Delegate work, write out what each person is doing either in a document or through online messenger 
+- Hold each other accountable and have check-ins at least a day before the project is due  
 
 ### Meeting Management 
 - We plan to meet every Tuesday from 4-5pm
