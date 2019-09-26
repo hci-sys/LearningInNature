@@ -17,3 +17,5 @@ Introducing hikAR! Our project idea centers around the seamless integration of i
 [^2]: https://nps.maps.arcgis.com/apps/opsdashboard/index.html#/b526c87ae21f4a669eb6c9238c2c4bcf
 
 By [Rudy Crisostomo](https://rjc20.github.io), [Gaurnett Flowers](https://gaurnett.github.io), [Eric Wang](https://erocwang.github.io) 
+
+Picture taken from [Blue Forest Conservation](https://www.blueforestconservation.com/)
