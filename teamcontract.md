@@ -3,7 +3,7 @@ layout: page
 title: Team Contract
 ---
 
-#### Guiding Principles
+## Guiding Principles
 - Listening to each other 
 - Taking into account everyone’s ideas 
 - Mutual respect 
