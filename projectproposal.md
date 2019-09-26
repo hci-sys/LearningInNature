@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Proposal
-subtitle: HikeIt
+subtitle: HikAR
 bigimg: /img/forest.jpg
 ---
 
@@ -11,4 +11,4 @@ You’re hiking up a mountain surrounded by flowers and greenery. The gentle bre
 
 
 ### The Idea
-Introducing HikeIt! Our project idea centers around the seamless integration of information about the world around you with your everyday life. With a word, the user can be presented information about their environment such as the trail they’re walking on and the direction they should be heading in. It can give them information on local resting spots, their ETA for the end of the trail, and various safety tips that are especially handy for the user’s location. Furthermore, at the user’s request, it can give information about the local berries, flowers, trees, and wildlife. If the user wants to know if a berry is safe to eat, they can look at it and the device will let them know. When the user is not actively requesting information, they will see the world as normal which allows for them to truly get immersed in their environment while always having a device to tap into if they are either curious about the local fauna and flora or unsure about their surroundings.
+Introducing HikAR! Our project idea centers around the seamless integration of information about the world around you with your everyday life. With a word, the user can be presented information about their environment such as the trail they’re walking on and the direction they should be heading in. It can give them information on local resting spots, their ETA for the end of the trail, and various safety tips that are especially handy for the user’s location. Furthermore, at the user’s request, it can give information about the local berries, flowers, trees, and wildlife. If the user wants to know if a berry is safe to eat, they can look at it and the device will let them know. When the user is not actively requesting information, they will see the world as normal which allows for them to truly get immersed in their environment while always having a device to tap into if they are either curious about the local fauna and flora or unsure about their surroundings.
