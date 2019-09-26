@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Proposal
-subtitle: Learning In Nature
+subtitle: HikeIt
 bigimg: /img/forest.jpg
 ---
 
