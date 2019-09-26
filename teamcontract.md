@@ -23,7 +23,6 @@ title: Team Contract
 - If group members are too busy during a certain time, more work can be given to the other members - with the expectation that that person will help out others when they are busy  
 
 #### Team Plan
-  To complete tasks, we will adhere to a process like follows:
 1. Come together and discuss availability, other course workload
 2. Look at assignment(s) and decide what roles/work fit best 
 3. Delegate work, write out what each person is doing either in a document or through online messenger 
