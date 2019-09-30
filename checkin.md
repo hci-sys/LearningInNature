@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contextual Inquiry Check-In
-bigimg: /img/team.jpg
+bigimg: /img/Stone Hill.jpg
 ---
 ## **_Our Master_**  
 We observed a Williams College student on a hike along Stone Hill. She is a pre-med student and a member of the cycling club. She is engaged in numerous outdoor activities during the week such as cycling, hiking and camping. We thought that she would be the perfect master to teach us what we might need to know to amplify our design and ultimately our product. We performed the hike on Sunday afternoon with temperatures of about 16 degrees celsius. It was cold getting up to the hike but we were able to get most of our questions answered. We were also able to get an insight into the way hikers think when they are hiking and the decisions that they make along the way.
