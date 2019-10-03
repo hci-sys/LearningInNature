@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contextual Inquiry Review
-bigimg: /img/yosemite.jpg
+bigimg: /img/IMG_0186.jpeg
 published: true
 ---
 
