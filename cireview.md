@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Contextual Inquiry Plan
-subtitle: Young Jedis
+title: Contextual Inquiry Review
 bigimg: /img/yosemite.jpg
 published: true
 ---
