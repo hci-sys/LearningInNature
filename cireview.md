@@ -67,7 +67,7 @@ The users desire a way to learn about hiking routes that are appropriate for the
 
 ### How are the tasks learned?
 
-As is, the tasks require either the guidance of an expert or    trial-and-error. In order to learn about wildlife, a user would require a field guide and would have to painstakingly detail the various qualities of, for example, a flower such as the color, the number of petals, the arrangement, and the symmetry. To learn more about hiking, the best trails to hike, and tips for hiking, the user would have to consult local groups or search the internet for trails near them. In other words, they would have to consult experts. With our design though, we hope for the user to be able to learn the tasks on their own with relatively little guidance.
+As is, the tasks require either the guidance of an expert or trial-and-error. In order to learn about wildlife, a user would require a field guide and would have to painstakingly detail the various qualities of, for example, a flower such as the color, the number of petals, the arrangement, and the symmetry. To learn more about hiking, the best trails to hike, and tips for hiking, the user would have to consult local groups or search the internet for trails near them. In other words, they would have to consult experts. With our design though, we hope for the user to be able to learn the tasks on their own with relatively little guidance.
 
 ### Where are the tasks performed?
 
