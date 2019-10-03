@@ -49,6 +49,8 @@ We identify these themes through similarities between different post-it notes. A
 
 ### Affinity Diagram Photo
 
+![Affinity Diagram](/img/IMG_0186.jpeg)
+
 ## Task Analysis Questions
 
 ### Who is going to use the design?
