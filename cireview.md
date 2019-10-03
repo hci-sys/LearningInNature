@@ -74,7 +74,7 @@ As is, the tasks require either the guidance of an expert or trial-and-error. In
 These tasks are performed out in nature while our customers are interacting with the wild. While they are out on hikes, tasks such as navigation, receiving information about nature and the environment around them and safety tasks are performed. These tasks are also performed out in the forest with a variety of trees and plants
 
 ### What is the relationship between the person and data?
-The data that the person receives will be data custom to their liking. This means that the data they choose from our device will incorporate information that they will need going on their hike. This data... While on the hike data about  
+The data that the person receives will be data custom to their liking. This means that the data they choose from our device will incorporate information that they will need going on their hike. 
 
 ### What other tools does the person have?
 
