@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contextual Inquiry Review
-bigimg: /img/IMG_0186.jpeg
+bigimg: /img/Buxton_RC.jpg
 published: true
 ---
 
