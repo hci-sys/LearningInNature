@@ -35,9 +35,9 @@ Each participant seems to have varying degrees of how willing they were to talk 
 
 ### High Level Themes
 
-1. Navigation Finding
-2. Easily finding information about plants and animals in nature
-3. Planning of navigation beforehand
+1. Navigation (planning) before and during the hike is essential to the sucessess of it 
+2. Finding information about plants and animals in nature is desired but a higher learning curve discourages it 
+3. Different hiking skill levels lead to different goals/desires from the hike 
 
 ### Important Tasks to Design for 
 
@@ -74,7 +74,7 @@ As is, the tasks require either the guidance of an expert or trial-and-error. In
 These tasks are performed out in nature while our customers are interacting with the wild. While they are out on hikes, tasks such as navigation, receiving information about nature and the environment around them and safety tasks are performed. These tasks are also performed out in the forest with a variety of trees and plants
 
 ### What is the relationship between the person and data?
-The data that the person receives will be data custom to their liking. This means that the data they choose from our device will incorporate information that they will need going on their hike. The user will be able to bring this data up when they require it and it will also go away at their request so that the data is as unobtrusive as possible. 
+The data that the person receives will be data custom to their liking. This means that the data they choose from our device will incorporate information that they will need going on their hike. This data... While on the hike data about  
 
 ### What other tools does the person have?
 
