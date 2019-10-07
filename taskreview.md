@@ -5,28 +5,26 @@ bigimg: /img/Buxton_RC.jpg
 published: true
 ---
 
-###Accurate prep for hikes
+## Accurate prep for hikes
 
 Harry enjoys the idea of hiking and has gone on a few hikes with his friends. But every time he goes on a hike with them, he forgets to bring something! Sometimes he’s a little short on food, sometimes he doesn’t realize the trail is muddy so he forgets his waterproof boots, and he sometimes even forgets to bring a backpack. He wants a way to know what he needs for a specific route and he also wants to be able to check each item off as he is preparing so he knows that he has everything he needs for a fun hike! Right now he’s trying something new by looking online to find out what to bring to accurately prepare for a hike. The difficulty with this is that the information he finds is often quite general. This means that he won’t be able to bring exactly what he needs. Often times he will find himself bringing way more or way less things than what he needs. This task is quite difficult because it puts Harry in a spot where he could end up getting hurt if he does not prepare for his hike adequately.
 
-###Finding hikes that are good for their skill level
+## Finding hikes that are good for their skill level
 
 Eduardo wants to hike on his own, but he has no idea what trails would be good for him to start out on. None of his friends hike so he can’t get information from them. The resources online don’t take into account his fitness level or his experience with hiking. This results in Eduardo not being able to find hikes tailored to his skill level easily and this ruins his experience. This is because he will either have to go on the hike not knowing how hard it will be to finish due to his ignorance of the difficulty level. What he needs is a reliable way to find hikes appropriate for him. Currently he goes out and takes notes on the hikes that he currently knows how to complete. This is moderately difficult because he has to store this data somewhere. Not only does he have to keep track of whether or not he can complete the hike, but he has to also keep track of the experience he had while going on a specific hike. This includes things like how difficult it was at certain parts, what he saw, things to be aware of the next time he goes and where to find certain resources such as food, water and a resting spot. Recording all of this information with precision is sometimes hard for him because he has to stop his hike to write down the information he has and this distracts him from the experience he wants.
 
-###Never get lost during a hike
+## Never get lost during a hike
 
 Ryan is an intermediate hiker who loves walking trails on his own. However, the thought of getting lost on a long hike terrifies him so he rarely goes on hikes longer than a few miles even though he enjoys the idea of longer hikes. Right now he uses the trail markers to make sure he’s on the right path, but this is moderately difficult as he recognizes that there is no easy way to tell at what point he veered off the trail or how to get back on the trail if he were to get lost. He wants a more reliable way of making sure he is headed in the right direction during a hike so he can worry less while on the trails. 
 
-###Identify wildlife around them
+## Identify wildlife around them
 
 Sally is a curious, outdoorsy person who likes to be around nature. While she loves just being surrounded by trees, flowers, and animals, she often finds flora and fauna that she isn’t familiar with and her curiosity leads to her trying to identify them. For her, this means either having a field guide with her anytime she goes out on walks or googling the features of the subject and risking an incorrect result for flower or tree she is looking at. This task is quite tedious and difficult because he has to get the details down perfectly such as the structure of the stem, the color of the petals and sometimes even the type of root. She wishes there was a way for her to easily verify what the things around her are.
 
-###Keep track of progress during hike
+## Keep track of progress during hike
 
 Raquel is a fearless explorer. She could be a beginner or expert, but nonetheless, loves to take trips out to the wilderness and explore new trails. Even though she is brave, there are times where she would like to know how far she is into a hike. Whether she is short on time, pacing herself, or would just like to know where she is relative on a map, she still wonders where her exact location is on the trail. At the moment, the best Raquel can do is estimate where she is on a new hike; being exposed to unfamiliar surroundings, she semi-blindly treks to the end. But knowing where she is on the trail could give her the confidence to conquer any journey. In the case of emergency, Raquel also needs to know where the closest place to get help is. Should she stay put, go back, or keep hiking forward? She couldn’t possibly decide unless she knew her location. The estimation of her position is not very difficult for Raquel, basing her guess on the total hike distance and how far she feels she has hiked, but it is very difficult for her to verify the validity of her guess.
 
-###Locate natural resources for survival
+## Locate natural resources for survival
 
 Nick is an up-and-coming backpacker. Despite being an avid hiker for many years, he has just got into the backpacking itself. He loves it. Even having just gone out with his friends a few times to the local wooded mountains, Nick craves a more intense experience, perhaps a solo backpacking trip for an extended period of time. He is used to finding clean water sources with trail maps and the help of others and has got into foraging with the help of his friends and a field guide. So, Nick has also had his first experiences with survival in the wilderness. However, before Nick can rise to new challenges, he needs help. On the trails before, he was unsure whether the water source he was led to was really clean and whether the berries he found were the edible ones in the field guide. This task is difficult to get over without a lot of experience. He desires an easier and faster way to locate natural clean water and food sources. 
- 
-
