@@ -27,6 +27,7 @@ navbar-links:
   - Contextual Inquiry Plan: "contextualinquiry"
   - Contextual Inquiry Check-In: "checkin"
   - Contextual Inquiry Review: "cireview"
+  - Task Review: "taskreview"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
