@@ -31,7 +31,7 @@ Nick is an up-and-coming backpacker. Despite being an avid hiker for many years,
  
 
 
-## Smart Watch Design: 
+## Smart Watch Design
 ### Task One: Keep track of progress during hike
 The hikAR Smart Watch will allow our customers to keep track of their hike as they are on their journey. It will show them all of the critical information that they will need while going on the hike. This includes information such as the current timer, their calorie count, their heart rate, altitude etc. Another screen will show them the current hiking route that they are on. This highlights the routes clearly and leads our customers to their destination. When the hike is over, it will automatically give them a summary of their hike so that they can view it at another time.
 
@@ -45,7 +45,7 @@ The hikAR Smart Watch will allow our customers to find the necessary resources n
 The hikAR Smart Watch will allow our customers to locate and identify certain wildlife that is out and about. The camera will be able to point at specific wildlife and be able to identify it. It will give details about the it so that the customers interested can find out more about it. An important concept from this is that our customers will be able to locate wildlife that is edible or not. They will simply point the camera at the object and our app will tell them if it can be eaten or if they should stay away
 
 
-## Mobile App + Camera Design:
+## Mobile App + Camera Design
 This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. While on the trail, the user can use the app + their camera to identify wildlife and other natural resources (like water sources). 
 
 ### Task One: Accurate Prep for Hikes 
@@ -60,7 +60,7 @@ The mobile device camera will be the focal point through which wildlife identifi
 ### Task Four: Locate Natural Resources for Survival 
 HikAr’s mobile app will help users locate natural resources on their hikes. The wildlife identification feature will allow users to correctly identify edible plants and fruit on their trails. Also, the app will help users find clean water sources. For instance, if a user is not sure if the water source they see is the designated source for the trail, they can simply take an image of the water source. If the image matches the images from previous users who verified the source, the app will report it as a match and that it is likely that the hiker is looking at the correct water source. 
 
-## AR Glasses:
+## AR Glasses
 This design is a pair of AR glasses which utilizes the AR aspect to allow users an avenue to learn about the world around them and navigate safely while on hikes. When deciding on a hike, the user will be able to select from a number of routes that are sorted by difficulty level. The glasses will then provide a checklist of items needed and the recommended amounts of each item depending on the length of the hike and the conditions of the trail. While on the hike, hikAR’s navigation system will make sure the user doesn’t get lost while also pointing them toward key resources when they need to resupply. The device will also allow for quick, accurate information on local wildlife whenever the user is curious and wants to know more about a tree they saw, for example.
 
 ### Task One: Accurate Prep for Hikes
