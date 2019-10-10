@@ -32,7 +32,7 @@ Nick is an up-and-coming backpacker. Despite being an avid hiker for many years,
 
 
 ## Smart Watch Design
-[Smart Watch](~/img/smartwatch.jpg)
+[Smart Watch](/img/smartwatch.jpg)
 
 ### Task One: Keep track of progress during hike
 The hikAR Smart Watch will allow our customers to keep track of their hike as they are on their journey. It will show them all of the critical information that they will need while going on the hike. This includes information such as the current timer, their calorie count, their heart rate, altitude etc. Another screen will show them the current hiking route that they are on. This highlights the routes clearly and leads our customers to their destination. When the hike is over, it will automatically give them a summary of their hike so that they can view it at another time.
@@ -49,7 +49,7 @@ The hikAR Smart Watch will allow our customers to locate and identify certain wi
 
 ## Mobile App + Camera Design
 
-[Mobile App](~/img/mobileapp.jpg)
+[Mobile App](/img/mobileapp.jpg)
 
 This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. While on the trail, the user can use the app + their camera to identify wildlife and other natural resources (like water sources). 
 
@@ -67,7 +67,7 @@ HikAr’s mobile app will help users locate natural resources on their hikes. Th
 
 ## AR Glasses
 
-[AR Glasses](~/img/arglasses.jpg)
+[AR Glasses](/img/arglasses.jpg)
 
 This design is a pair of AR glasses which utilizes the AR aspect to allow users an avenue to learn about the world around them and navigate safely while on hikes. When deciding on a hike, the user will be able to select from a number of routes that are sorted by difficulty level. The glasses will then provide a checklist of items needed and the recommended amounts of each item depending on the length of the hike and the conditions of the trail. While on the hike, hikAR’s navigation system will make sure the user doesn’t get lost while also pointing them toward key resources when they need to resupply. The device will also allow for quick, accurate information on local wildlife whenever the user is curious and wants to know more about a tree they saw, for example.
 
