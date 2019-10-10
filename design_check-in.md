@@ -53,17 +53,17 @@ The hikAR Smart Watch will allow our customers to locate and identify certain wi
 
 This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. While on the trail, the user can use the app + their camera to identify wildlife and other natural resources (like water sources). 
 
-### Task One: Accurate Prep for Hikes 
-Before a user embarks on a hike they have searched for / planned through hikAR, the app will alert them and send a notification to check off a list of items and supplies they should bring on the hike. These checklists will be created by designated trail experts and hikAR  community members. Additionally, if a user wishes to just use the app as a pre-hike tool, they can search for item checklists by trails. 
-
-### Task Two: Finding Hikes That Are Good for Their Skill Level 
-The hikAR mobile app will provide an easy interface for users to pick and choose hiking trails. One filtering feature will be hike difficulty. To determine a user’s skill level, the hike will monitor and keep track of the difficulty of hikes that the user has previously finished. Or, the user can simply fill out a quick questionnaire regarding their experience and athletic ability in order for the app to give an estimate of the skill level as well. The user has the option to input a hike difficulty represented by 5 filled/empty circles. Once done, the results will be filtered with those hikes with that difficulty at the top of the list. 
-
-### Task Three: Identify Wildlife Around Them 
+### Task One: Identify Wildlife Around Them 
 The mobile device camera will be the focal point through which wildlife identification will be achieved. If the user sees something in the wilderness they will have two means of identification through the mobile app. One of course will be the camera, in which case if the user can take a good picture of the animal, plant, etc. the app will return an info page about that piece of wildlife. There, the user can verify if the identification was correct and learn more about it as well. The validity checking will be essential to the correct identification of wildlife for others in the future (image data). The user can also fill out a questionnaire, answering questions about the wildlife much like a field guide except here electronically, to figure out what they are looking at. 
 
+### Task Two: Accurate Prep for Hikes 
+Before a user embarks on a hike they have searched for / planned through hikAR, the app will alert them and send a notification to check off a list of items and supplies they should bring on the hike. These checklists will be created by designated trail experts and hikAR  community members. Additionally, if a user wishes to just use the app as a pre-hike tool, they can search for item checklists by trails. 
+
+### Task Three: Finding Hikes That Are Good for Their Skill Level 
+The hikAR mobile app will provide an easy interface for users to pick and choose hiking trails. One filtering feature will be hike difficulty. To determine a user’s skill level, the hike will monitor and keep track of the difficulty of hikes that the user has previously finished. Or, the user can simply fill out a quick questionnaire regarding their experience and athletic ability in order for the app to give an estimate of the skill level as well. The user has the option to input a hike difficulty represented by 5 filled/empty circles. Once done, the results will be filtered with those hikes with that difficulty at the top of the list. 
+
 ### Task Four: Locate Natural Resources for Survival 
-HikAr’s mobile app will help users locate natural resources on their hikes. The wildlife identification feature will allow users to correctly identify edible plants and fruit on their trails. Also, the app will help users find clean water sources. For instance, if a user is not sure if the water source they see is the designated source for the trail, they can simply take an image of the water source. If the image matches the images from previous users who verified the source, the app will report it as a match and that it is likely that the hiker is looking at the correct water source. 
+HikAr’s mobile app will help users locate natural resources on their hikes. The wildlife identification feature will allow users to correctly identify edible plants and fruit on their trails. Also, the app will help users find clean water sources. If desired, a user can use the app to guide/route them towards clean water sources. However, if a user is still not sure if the water source they see is the designated source for the trail, they can simply take an image of the water source. If the image matches the images from previous users who verified the source, the app will report it as a match and that it is likely that the hiker is looking at the correct water source. 
 
 ## AR Glasses
 
