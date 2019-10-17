@@ -11,8 +11,12 @@ We chose the design of a mobile app because after doing more research through sp
 
 ## Navigation
 
+![Navigation](/img/storyboard_nav.jpg)
+
 Jordan loves to explore. It’s a good day outside so she wants to go out for a hike. Curious about where she can go, she opens up the hikAR app and looks for local routes. She then picks a hike based on her hiking level and desired distance. The app gives her a checklist of what to bring and she heads over to the trail. Throughout the hike, she uses the app to guide her and stay on the route. Because of hikAR, Jordan was able to have a fun and easy experience hiking outdoors. 
 
 ## Identification
+
+![Identification](/img/storyboard_id.jpg)
 
 Markus is out in the wild by himself because he is curious about the forest nearby his waterfront house in Michigan. He walks by a tree on one of his daily hikes to find out more information about the forest around him. He takes out his phone and logs into the hikAR app. By taking a picture of the tree, he is easily able to identify the type of tree it is and a couple fun facts about the tree. Later on his hike he begins to feel a bit hungry. He goes out exploring berries nearby (or at least things that look like berries). He uses the hikAR app to confirm that the things he found are indeed berries and that they are edible. After getting the confirmation he is able to enjoy his lovely treat and resume his hike.
