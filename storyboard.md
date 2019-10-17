@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Storyboard
-bigimg: /img/forest2.jpg
+bigimg: /img/storyboard.jpg
 published: true
 ---
 
