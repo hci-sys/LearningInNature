@@ -13,7 +13,7 @@ We chose the design of a mobile app because after doing more research through sp
 
 ![Navigation](/img/storyboard_nav.jpg)
 
-Jordan loves to explore. It’s a good day outside so she wants to go out for a hike. Curious about where she can go, she opens up the hikAR app and looks for new local routes. She then picks a hike based on her hiking level and desired distance. The app gives her a checklist of what to bring and she heads over to the trail. Throughout the hike, she uses the app to guide her and stay on the route. Because of hikAR, Jordan was able to have a fun and easy experience hiking outdoors, not having to worry about getting lost or under-preparing. 
+Jordan loves to explore. It’s a good day outside so she goes out for a hike. When she reaches the trail head, she pulls out her phone and opens the hikAR app. She then selects the trail she is about to hike. Throughout the hike, she uses the app to guide her and stay on the route. Because of hikAR, Jordan was able to have a fun and easy experience hiking outdoors, not having to worry about getting lost.
 
 ## Identification
 
