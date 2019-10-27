@@ -1,6 +1,12 @@
 ---
 layout: page
-title: About the Team 
+title: Meet the Designers
 ---
+
+[Rudy Crisostomo](https://rjc20.github.io)
+
+[Gaurnett Flowers](https://gaurnett.github.io)
+
+[Eric Wang](https://erocwang.github.io)
 
 
