@@ -30,6 +30,10 @@ navbar-links:
   - Task Review: "taskreview"
   - Design Check-In: "design_check-in"
   - Storyboard: "storyboard"
+  The Team: "team"
+  - Rudy Crisostomo: https://rjc20.github.io
+  - Eric Wang: https://erocwang.github.io
+  - Gaurnett Flowers: https://gaurnett.github.io
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
