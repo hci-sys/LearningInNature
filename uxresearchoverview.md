@@ -63,7 +63,7 @@ In this scenario, Markus is out on a hike on his own. He is a bit of an inexperi
 
 In this scenario, Sally, an outdoor enthusiast with a healthy curiosity for nature, is walking around the forest near her home. Although she spends a lot of her spare time taking in all the flowers and trees in this forest, she has come to the realization that she doesn’t know anything specific about the wildlife in the forest. If pressed on the issue, she could maybe point out the dandelions by name, but not much else. To rectify this, she pulls out her phone and opens up hikAR. With the app on, she begins to scan her favorite flora and looks at information on them such as their names, where they can often be found, when they bloom, and other essential fun facts. With this information in hand, Sally’s curiosity is now satisfied and she is left with a better understanding of the plants and wildlife around her.
 
-More on (scenarios and storyboards)[https://hci-sys.github.io/LearningInNature/storyboard/]
+More on [scenarios and storyboards](https://hci-sys.github.io/LearningInNature/storyboard/)
 
 ## For Reference
 
