@@ -7,11 +7,11 @@ published: true
 ---
 
 ## Team Members and Roles
-* Eric Wang - Designer
+* Eric Wang - Designer,Researcher
 
-* Gaurnett Flowers - Designer
+* Gaurnett Flowers - Designer,Researcher
 
-* Rudy Crisostomo - Designer
+* Rudy Crisostomo - Designer,Researcher
 
 ## Problem and Solution Overview
 The life of a hiker is one that is filled with many inconveniences that negatively impact people’s experiences in the wild. Of these problems, one of the most ubiquitous is the lack of a reliable way to navigate on the trails. This problem affects hikers of all experience levels and often prevents outdoor enthusiasts from exploring and going out on new trails for fear of getting lost on an unfamiliar path. Another issue is the inability to have questions about local wildlife answered when out in the wild alone. This inhibits the level of interaction that people can have with their environment while out on the trails. Thus, we set out to find a design that hikers can use while out in the wild to improve their time in nature.
