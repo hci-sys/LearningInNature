@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UX Research Overview
-subtitle: hikAR\: A Hiker's Best Friend
+subtitle: hikAR ~ A Hiker's Best Friend
 bigimg: /img/forest2.jpg
 published: true
 ---
