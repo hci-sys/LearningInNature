@@ -7,7 +7,9 @@ published: true
 
 ## Team Members and Roles
 Eric Wang - Designer
+
 Gaurnett Flowers - Designer
+
 Rudy Crisostomo - Designer
 
 ## Problem and Solution Overview
@@ -33,3 +35,14 @@ This design is a pair of AR glasses which utilizes the AR aspect to allow users 
 ![AR Glasses](/img/arglasses.jpg)
 
 We chose the design of a mobile app because after doing more research through speaking to friends we found that most students preferred to carry around and use their mobile devices to complete the tasks. They feel as if it is hardware that everyone has, and if we were to choose another design such as a smartwatch or AR glasses then it would require them to buy additional hardware/equipment as opposed to just installing an application on their mobile device. It is also very portable, seeing that it slips right in the pocket and can be taken around anywhere. It is also something that people bring when they are out on hikes or adventures in the wild. Since they already bring their phones out in nature, it would not be a hindrance for them to download our app, adding an additional tool to their hiking, camping or explorationary experience.
+
+## Written Scenarios
+
+### Navigating in the wild
+
+In this scenario, Markus is out on a hike on his own. He is a bit of an inexperienced hiker, but he loves walking on trails to get some exercise in the wild. However, because the trail he is on is new to him, he quickly finds himself lost in the woods. Noticing that it has been a while since he has seen a trail marker showing that he is on the right path, Markus pulls out his phone and opens up hikAR. The app shows the route that Markus is supposed to be on and displays the quickest way for him to get back on the trail and continues to show his path once he is back on his path. Now Markus is able to continue his hike and continue enjoying the beautiful sights around him knowing that he always has a reliable method to find his way back on the trail and safely back home.
+
+###  Identifying surrounding wildlife
+
+In this scenario, Sally, an outdoor enthusiast with a healthy curiosity for nature, is walking around the forest near her home. Although she spends a lot of her spare time taking in all the flowers and trees in this forest, she has come to the realization that she doesn’t know anything specific about the wildlife in the forest. If pressed on the issue, she could maybe point out the dandelions by name, but not much else. To rectify this, she pulls out her phone and opens up hikAR. With the app on, she begins to scan her favorite flora and looks at information on them such as their names, where they can often be found, when they bloom, and other essential fun facts. With this information in hand, Sally’s curiosity is now satisfied and she is left with a better understanding of the plants and wildlife around her.
+
