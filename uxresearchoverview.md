@@ -41,7 +41,7 @@ We chose the design of a mobile app because after doing more research through sp
 
 ### Navigating in the wild
 
-![Mobile App](/img/79D81FC3-0EA0-40B7-BC23-3825A840B714 2.JPG)
+![Mobile App](/img/79D81FC3-0EA0-40B7-BC23-3825A840B7142.JPG)
 
 In this scenario, Markus is out on a hike on his own. He is a bit of an inexperienced hiker, but he loves walking on trails to get some exercise in the wild. However, because the trail he is on is new to him, he quickly finds himself lost in the woods. Noticing that it has been a while since he has seen a trail marker showing that he is on the right path, Markus pulls out his phone and opens up hikAR. The app shows the route that Markus is supposed to be on and displays the quickest way for him to get back on the trail and continues to show his path once he is back on his path. Now Markus is able to continue his hike and continue enjoying the beautiful sights around him knowing that he always has a reliable method to find his way back on the trail and safely back home.
 
