@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Logo!
-image: /img/logo.jpg
+image: /img/logo4.jpg
 ---
 
-![Logo](/img/logo.jpg)
+![Logo](/img/logo4.jpg)
