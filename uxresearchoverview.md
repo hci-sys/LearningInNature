@@ -39,7 +39,7 @@ The hikAR Smart Watch is designed to help users with their hike while avoiding t
 
 ![Mobile App](/img/mobileapp.jpg)
 
-This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. This will allow them to adequately prepare for the task ahead. While on the trail, the user can use the app + their camera to identify wildlife and other natural resources (like water sources). It will also allow them to properly navigate their way around the hike. The movile phone is also portable but not as portable as the watch. However, most people have smartphones so it would allow us to reach a broader audience.
+This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. This will allow them to adequately prepare for the task ahead. While on the trail, the user can use the app plus their camera to identify wildlife and other natural resources (like water sources). It will also allow them to properly navigate their way around the hike. The mobile phone is also portable but not as portable as the watch. However, most people have smartphones so it would allow us to reach a broader audience.
 
 ![AR Glasses](/img/arglasses.jpg)
 
