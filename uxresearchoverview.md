@@ -1,3 +1,10 @@
+---
+layout: page
+title: UX Research Overview
+bigimg: /img/forest2.jpg
+published: true
+---
+
 ## Team Members and Roles
 Eric Wang - Designer
 Gaurnett Flowers - Designer
@@ -15,8 +22,14 @@ The primary users for the design are people who have a genuine interest in natur
 ## Proposed Design Sketches - “3x4”
 The hikAR Smart Watch is designed to help users with their hike while avoiding the intrusive aspects of other potential designs. The watch will allow them to select the best trails based on their skill level and hiking experience. Once they select a trail, the watch will guide them to the best preparation methods and equipments that they will need to have a good time out in the wild. If the user needs more water or food, the watch will reroute them toward nearby natural resources. Using a camera on the watch, the user will also be able to identify wildlife around them and thus learn about nature while on their hike. This created a memorable and enjoyable experience for our users. THe watch design offers the most portability becaues it fits on your hand and moves with you wherever you go.
 
+![Smart Watch](/img/smartwatch.jpg)
+
 This design is a mobile app which uses the phone / mobile device’s camera to solve most of the user problems and tasks. When deciding on a trail, users can use the app to find a trail that matches their skill level and other interests. Prior to the hike, the app will also provide the user a checklist of recommended items and supplies. This will allow them to adequately prepare for the task ahead. While on the trail, the user can use the app + their camera to identify wildlife and other natural resources (like water sources). It will also allow them to properly navigate their way around the hike. The movile phone is also portable but not as portable as the watch. However, most people have smartphones so it would allow us to reach a broader audience.
 
+![Mobile App](/img/mobileapp.jpg)
+
 This design is a pair of AR glasses which utilizes the AR aspect to allow users an avenue to learn about the world around them and navigate safely while on hikes. When deciding on a hike, the user will be able to select from a number of routes that are sorted by difficulty level. The glasses will then provide a checklist of items needed and the recommended amounts of each item depending on the length of the hike and the conditions of the trail. While on the hike, hikAR’s navigation system will make sure the user doesn’t get lost while also pointing them toward key resources when they need to resupply. The device will also allow for quick, accurate information on local wildlife whenever the user is curious and wants to know more about a tree they saw, for example. The AR glasses is the least portable of the three designs. It is also most likely that our customers will forget the glasses at home before heading out on the hike.
+
+![AR Glasses](/img/arglasses.jpg)
 
 We chose the design of a mobile app because after doing more research through speaking to friends we found that most students preferred to carry around and use their mobile devices to complete the tasks. They feel as if it is hardware that everyone has, and if we were to choose another design such as a smartwatch or AR glasses then it would require them to buy additional hardware/equipment as opposed to just installing an application on their mobile device. It is also very portable, seeing that it slips right in the pocket and can be taken around anywhere. It is also something that people bring when they are out on hikes or adventures in the wild. Since they already bring their phones out in nature, it would not be a hindrance for them to download our app, adding an additional tool to their hiking, camping or explorationary experience.
