@@ -35,6 +35,8 @@ navbar-links:
   - Rudy Crisostomo: https://rjc20.github.io
   - Gaurnett Flowers:  https://gaurnett.github.io
   - Eric Wang: https://erocwang.github.io
+  UX Design:
+  - Paper Prototype: "paper_prototype"
   Appendix: "appendix"
   
 # Image to show in the navigation bar - image must be a square (width = height)
