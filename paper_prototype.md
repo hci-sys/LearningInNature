@@ -12,13 +12,13 @@ Our mobile app will start with an opening screen asking them to log/sign in to t
 
 ### Home Screen
 
-It then takes them to the home page that gives them a list of hikes that are nearby. Here there are images for each hike as well as short details and information about the hike. This allows users to then go on their tasks such as navigation and identification. It also allows them to search for hikes that they find interesting so that they can engage in these tasks with. 
+It then takes them to the home page that gives them a list of hikes that are nearby. Here there are images for each hike as well as short details and information about the hike. This allows users to then go on their tasks such as navigation and identification. It also allows them to search for hikes that they find interesting so that they can engage in these tasks. 
 
 ## Task One: Navigation
 
 ![First Task](/img/navigation.jpeg)
 
-When they select the hike that they want to go on, they will see a screen giving the summary of the hike/ This includes the distance of the hike, the difficulty of the hike and the average time that the hike will take. After clicking the start button, it takes the user to the navigation screen where they can see the map and directions of where to go. The navigation gives the user a detailed scene of the environment they are currently in such as showing tree, water and rivers around them. It navigates the user safely to their destination.
+When they select the hike that they want to go on, they will see a screen giving the summary of the hike. This includes the distance of the hike, the difficulty of the hike and the average time that the hike will take. After clicking the start button, it takes the user to the navigation screen where they can see the map and directions of where to go. The navigation gives the user a detailed scene of the environment they are currently in such as showing tree, water and rivers around them. It navigates the user safely to their destination.
 
 ## Task Two: Identification
 
