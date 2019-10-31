@@ -3,8 +3,8 @@ layout: page
 title: Paper Prototype
 
 ---
-[!Prototype Overview](/img/prototype_overview.jpeg)
+![Prototype Overview](/img/prototype_overview.jpeg)
 
-[!First Task](/img/navigation.jpeg)
+![First Task](/img/navigation.jpeg)
 
-[!Second Task](/img/identification.jpeg)
+![Second Task](/img/identification.jpeg)
