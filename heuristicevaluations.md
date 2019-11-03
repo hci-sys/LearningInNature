@@ -7,7 +7,7 @@ published: true
 
 ## Heuristic Evaluation 1
 
-![Prototype Overview](/img/eval1.HEIC)
+![Prototype Overview](/img/eval1.jpg)
 
 hikAR: Gaurnett and Rudy
 RES: Gavin 
