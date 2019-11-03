@@ -18,6 +18,12 @@ RES: Gavin
 | 3 | Back button is not present; hard to navigate back | 1 |
 | 1 | Route status doesn't seem to be shown | 1 |
 
+![Prototype Overview](/img/nav.jpg)
+Route status allows the hikers to know their current progress in the hike
+
+![Prototype Overview](/img/camera.JPG)
+Focal point within the camera screen to improve identification
+
 ## Heuristic Evaluation 2
 
 hikAR: Eric
@@ -36,6 +42,12 @@ commUnity: Tahiem and Peter
 | 4 | Search icon is inconsistent with what you're doing (taking a photo) | 2 |
 | 5 | User presses navigation button when already in navigation mode and nothing happens | 2 |
 
+![Prototype Overview](/img/back.jpg)
+Back button to allow easy navigation back and forth across the app
+
+![Prototype Overview](/img/tab.JPG)
+Single tab icon that is always on the bottom unless we are in image mode.
+
 ## Heuristic Revisions 
 
-Most of the revisions that needed to be made was based on the navigation around the app. There was no back button integrated and this caused navigating back from the current screen difficult to do. Another issue came from the icons. The identification icon was a bit ambiguous so we redesigned it to make it look better and more direct. We had also improved the search functionality to include error messages and a square to properly focus what is being identified on the app. Lastly, we updated the navigation view to include the current status of where our hiker currently is relative to their endpoint.
+Most of the revisions that needed to be made was based on the navigation around the app. There was no back button integrated and this caused navigating back from the current screen difficult to do. Another issue came from the icons. The identification icon was a bit ambiguous so we redesigned it to make it look better and more direct. We also changed the tab bar to include just one tab instead of two for simplicity. We had also improved the search functionality to include error messages and a square to properly focus what is being identified on the app. Lastly, we updated the navigation view to include the current status of where our hiker currently is relative to their endpoint.
