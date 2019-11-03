@@ -7,7 +7,7 @@ published: true
 
 ## Heuristic Evaluation 1
 
-![Prototype Overview](/img/eval1.jpg)
+![Prototype Overview](/img/eval1.jpg =100x20)
 
 hikAR: Gaurnett and Rudy
 RES: Gavin 
@@ -22,6 +22,9 @@ RES: Gavin
 
 hikAR: Eric
 commUnity: Tahiem and Peter
+
+![Prototype Overview](/img/eval2.jpg =100x20)
+![Prototype Overview](/img/eval3.jpg =100x20)
 
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
