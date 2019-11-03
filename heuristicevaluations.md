@@ -1,3 +1,10 @@
+---
+layout: page
+title: Heuristic Evaluation
+bigimg: /img/storyboard.jpg
+published: true
+---
+
 ## Heuristic Evaluation 1
 
 hikAR: Gaurnett and Rudy
