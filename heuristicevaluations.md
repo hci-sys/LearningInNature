@@ -15,7 +15,7 @@ RES: Gavin
 | # | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: | :----: |
 | 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 |
-| 3 | Control and Freedom | Back button is not present; hard to navigate back | 1 |
+| 3 | Control & Freedom | Back button is not present; hard to navigate back | 1 |
 | 1 | Visibility | Route status doesn't seem to be shown | 1 |
 
 ![Prototype Overview](/img/nav.jpg)
@@ -32,15 +32,15 @@ commUnity: Tahiem and Peter
 ![Prototype Overview](/img/eval2.jpg)
 ![Prototype Overview](/img/eval3.jpg)
 
-| Heuristic Broken | Description | Severity |
-| :----: | :----: | :----: |
-| 6 | Navigate/identify simple but ambigous | 1 |
-| 3 | Back button is ambiguous, there is no clear way to return to previous view | 4 |
-| 1 | Current screen. Some identification of what the current screen is (i.e. route vs identification) | 3 |
-| 1 | Wrong identification/Identification Error. Needs to list the chance that the identification is false | 3 |
-| 10/6 | Design's ambiguity makes it difficult to figure out where you are in the view | 2 |
-| 4 | Search icon is inconsistent with what you're doing (taking a photo) | 2 |
-| 5 | User presses navigation button when already in navigation mode and nothing happens | 2 |
+| # | Heuristic Broken | Description | Severity |
+| :----: | :----: | :----: | :----: |
+| 6 | Recognition | Navigate/identify simple but ambigous | 1 |
+| 3 | Control & Freedom | Back button is ambiguous, there is no clear way to return to previous view | 4 |
+| 1 | Visibility | Current screen. Some identification of what the current screen is (i.e. route vs identification) | 3 |
+| 1 | Visibility | Wrong identification/Identification Error. Needs to list the chance that the identification is false | 3 |
+| 10/6 | Help/Recognition | Design's ambiguity makes it difficult to figure out where you are in the view | 2 |
+| 4 | Consistency | Search icon is inconsistent with what you're doing (taking a photo) | 2 |
+| 5 | Error Prevention | User presses navigation button when already in navigation mode and nothing happens | 2 |
 
 ![Prototype Overview](/img/back.jpg)
 Back button to allow easy navigation back and forth across the app
