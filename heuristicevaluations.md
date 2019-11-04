@@ -12,11 +12,11 @@ published: true
 hikAR: Gaurnett and Rudy
 RES: Gavin 
 
-| Heuristic Broken | Description | Severity |
-| :----: | :----: | :----: |
-| 5 | Pictures don't have a focal point for plant identification | 1 |
-| 3 | Back button is not present; hard to navigate back | 1 |
-| 1 | Route status doesn't seem to be shown | 1 |
+| # | Heuristic Broken | Description | Severity |
+| :----: | :----: | :----: | :----: |
+| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 |
+| 3 | Control and Freedom | Back button is not present; hard to navigate back | 1 |
+| 1 | Visibility | Route status doesn't seem to be shown | 1 |
 
 ![Prototype Overview](/img/nav.jpg)
 Route status allows the hikers to know their current progress in the hike
