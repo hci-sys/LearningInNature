@@ -13,17 +13,18 @@ title: Usability Testing Check-In
 | Labeling/Signifiers | Start button for navigation is unclear (just says "start") | 2 | 
 | Visibility | Stopping Navigation has no error message | 3 | 
 
+### Issues 1-3
 ![Cog 2](/img/cog_2_old.jpeg)
 
 ![Cog 3](/img/cog_3_old.jpeg)
 
-### Issue 1
+#### Issue 1 
 Step: Check to see if the plant was identified correctly. The color tab is placed on the screen but this is likely not enough alone for the user to recognize the status of the image quality.
 
-### Issue 2 
+#### Issue 2 
 Step: Check to see if the plant was identified correctly. While the color tab is placed on the identified plant name, this is not enough to guide the user to discover if/if not the identification/image taking was done correctly.
 
-### Issue 3 
+#### Issue 3 
 
 Step: Take another image of the plant if necessary. It is possible for the user to close the identification mode and then reopen to take a picture. However, this requires many steps and extra thinking. 
 
