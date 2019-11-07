@@ -6,7 +6,11 @@ title: Usability Testing Check-In
 ## Cognitive Walk-through Issues Overview 
 | Issue | Description | Severity |
 | :----: | :----: | :----: |
-| Error Prevention | asdf | 1 |
+| | Image/Identification Quality Not Clear | 1 |
+| | Unclear action to verify image/identification quality | 1 |
+| | Retaking image option not visible | 1 |
+
+Changed pop-up message + color indicators to having a pop-up message after each picture taken indicating whether or not the user should retake the picture. 
 
 ## Usability Test 1 Issues Overview 
 | Heuristic Broken | Description | Severity |
