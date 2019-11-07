@@ -9,7 +9,6 @@ title: Usability Testing Check-In
 | Visibility | Image/Identification Quality Not Clear | 3 |
 | Conceptual Model | Unclear action to verify image/identification quality | 3 |
 | Labeling/Signifiers | Retaking image option not visible/unclear | 2 |
-| Understanding Feedback | Verification page should have more details, picture, etc | 3 |
 | Labeling/Signifiers | Start button for navigation is unclear (just says "start") | 2 | 
 | Visibility | Stopping Navigation has no error message | 3 | 
 
