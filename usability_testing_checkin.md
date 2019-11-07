@@ -56,7 +56,7 @@ Step: Navigate along the trail. While not part of the task necessarily, there wa
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
 | Recognition | No signup button | 4 |
-| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 2 |
+| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
 
 ## Task 2 Issues Overview
 
@@ -66,11 +66,15 @@ Step: Navigate along the trail. While not part of the task necessarily, there wa
 | :----: | :----: | :----: |
 | Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 |
 
+**Task 1**  
+Begin and finish a navigation for Stone Hill. 
+**Task 2**  
+Identify and learn about two different plant species. 
+
 ## Test Description  
 The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our customer. Rudy and Eric assisted with making notes about what happened during the test such as the customer feedback and questions during the test, flaws in the design that led to customer to performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the customer. 
 
 We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the scenarios one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button. 
-
 
 ### Incident One  
 
@@ -80,6 +84,8 @@ Sign Up button: This was a negative incident because if the user does not have a
 
 ![Incident One Revised](/img/usability_1_revised.jpeg)
 
+We have just added a sign-up button for first time users on the test. 
+
 ### Incident Two  
 
 ![Incident Two](/img/usability_2_old.jpeg)
@@ -88,13 +94,17 @@ Clicking the first trail: This was a negative incident. When we asked our partic
 
 ![Incident Two Revised](/img/usability_2_revised.jpeg)
 
+We have changed the prototype so that the nearby hike descriptions are not scribbles anymore. This way, if we tell the user to look for a specific hike it will be more clear and we can gear futher usability tests differently in the future. 
+
 ### Incident Three
 
 ![Incident Three](/img/usability_3_old.jpeg)
 
 Tapping the Focal Point: This was a negative incident. When the participant was trying to take a picture of the plant she wanted to identify, she ended up tapping the focal point instead of the button at the bottom of the screen. We realized that this was perhaps just because she was using a paper prototype why this occurred. On a real device the user would perhaps tap the focal point to focus on the image instead of taking it and then tap the button at the bottom to take the actual picture when they are ready. The severity of this would be a 2.
 
-![Incident Three Revised](/img/usability_3_revised.jpeg)
+![Incident Three Revised](/img/usability_3_revised.jpeg) 
+
+To make it more clear what action the user should take, we have colored the "Identify this!" button. 
 
 ### Incident Four
 Identifying the second plant correctly: this is a positive incident. After learning about the button at the bottom of the screen, the user was able to easily identify another wildlife.
