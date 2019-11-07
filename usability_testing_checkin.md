@@ -31,12 +31,18 @@ Changed pop-up message + color indicators to having a pop-up message after each 
 
 # Usability Test 
 ## Task 1 Issues Overview 
+
+![Mobile App](/img/navigation.JPG)
+
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
 | Recognition | No signup button  | 4 |
 | Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 2 |
 
-## Task 2 Issues Overview 
+## Task 2 Issues Overview
+
+![Mobile App](/img/identification.JPG)
+
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
 | Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 |
