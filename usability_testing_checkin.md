@@ -27,7 +27,7 @@ Step: Check to see if the plant was identified correctly. While the color tab is
 
 Step: Take another image of the plant if necessary. It is possible for the user to close the identification mode and then reopen to take a picture. However, this requires many steps and extra thinking. 
 
-![Cog 3](/img/cog_3_revision.jpeg)
+![Cog 3](/img/cog_3_revised.jpeg)
 
 To correct issues 1-3, we have decided to change the image/identification utilities. Now, once a user takes a picture, the app will give feedback on the picture immediately, telling the user to either take the picture again or identifying the plant correctly. This will eliminate the confusion and ambiguity in user action. 
 
