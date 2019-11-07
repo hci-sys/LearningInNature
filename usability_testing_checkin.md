@@ -4,6 +4,7 @@ title: Usability Testing Check-In
 ---
 # Cognitive Walk-through
 ## Issues Overview 
+
 | Issue | Description | Severity |
 | :----: | :----: | :----: |
 | Visibility | Image/Identification Quality Not Clear | 3 |
