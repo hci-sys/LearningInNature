@@ -67,7 +67,7 @@ Step: Navigate along the trail. While not part of the task necessarily, there wa
 | Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 |
 
 **Task 1**  
-Begin and finish a navigation for Stone Hill. 
+Begin and finish a navigation for Stone Hill.  
 **Task 2**  
 Identify and learn about two different plant species. 
 
