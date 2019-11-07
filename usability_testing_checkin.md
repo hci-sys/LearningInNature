@@ -12,6 +12,21 @@ title: Usability Testing Check-In
 | Labeling/Signifiers | Start button for navigation is unclear (just says "start") | 2 | 
 | Visibility | Stopping Navigation has no error message | 3 | 
 
+### Issue 1
+Step: Check to see if the plant was identified correctly 
+
+### Issue 2 
+Step: Check to see if the plant was identified correctly 
+
+### Issue 3
+Step: Take another image of the plant if necessary  
+
+### Issue 4
+Step: Verify Trail Details and Begin Navigation 
+
+### Issue 5 
+Step: Navigate along the trail
+
 Changed pop-up message + color indicators to having a pop-up message after each picture taken indicating whether or not the user should retake the picture. 
 
 # Usability Test 
@@ -31,19 +46,19 @@ The participant for our usability test was a sophomore attending Williams Colleg
 
 We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the scenarios one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button. 
 
-## Incident One
+### Incident One
 Sign Up button: This was a negative incident because if the user does not have an account they would not be able to use our app. The severity of this would be a 4
 
-## Incident Two
+### Incident Two
 Clicking the first trail: This was a negative incident. When we asked our participant to search for Stone Hill, her first reaction was to tap the first trail that was present on the screen instead of actually searching for the hike. The severity of this would be a 1.
 
-## Incident Three
+### Incident Three
 Tapping the Focal Point: This was a negative incident. When the participant was trying to take a picture of the plant she wanted to identify, she ended up tapping the focal point instead of the button at the bottom of the screen. We realized that this was perhaps just because she was using a paper prototype why this occurred. On a real device the user would perhaps tap the focal point to focus on the image instead of taking it and then tap the button at the bottom to take the actual picture when they are ready. The severity of this would be a 2.
 
-## Incident Four
+### Incident Four
 Identifying the second plant correctly: this is a positive incident. After learning about the button at the bottom of the screen, the user was able to easily identify another wildlife.
 
-## Incident Five
+### Incident Five
 Navigating through the route effectively: This was a positive incident. After selecting stone hill, our participant was able to navigate through the hike fluently to arrive at her destination.
 
 ## Future Plans  
