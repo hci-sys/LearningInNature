@@ -47,6 +47,7 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity | Revision |
 | :----: | :----: | :----: | :----: |
+| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visable |
 | Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 
 #### Revision 1
