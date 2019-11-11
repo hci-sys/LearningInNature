@@ -7,7 +7,11 @@ title: Usability Testing Review
 
 ### Task 1: Begin and finish a navigation for Stone Hill
 
+![Mobile App](/img/identification.JPG)
+
 ### Task 2:  Identify and learn about 2 different plant species 
+
+![Mobile App](/img/navigation.JPG)
 
 ### Summary
 
@@ -22,9 +26,6 @@ We introduced the project by giving a synopsis of the problem that we are trying
 | Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
 | Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
 | Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 | If the user double taps the focal point then it will take a picture. |
-
-![Mobile App](/img/identification.JPG)
-![Mobile App](/img/navigation.JPG)
  
 ## Usability Test 2
 
