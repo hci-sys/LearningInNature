@@ -1,8 +1,8 @@
 
 ## Usability Test 1
 
-### Task 1*: Begin and finish a navigation for Stone Hill
-### Task 2*:  Identify and learn about 2 different plant species 
+### Task 1: Begin and finish a navigation for Stone Hill
+### Task 2:  Identify and learn about 2 different plant species 
 
 The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after- hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our user. Rudy and Eric assisted with making notes about what happened during the test such as the user feedback and questions during the test, flaws in the design that led to the customer performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the user.
  
@@ -10,9 +10,9 @@ We introduced the project by giving a synopsis of the problem that we are trying
  
 ## Usability Test 2
 
-### Task 1**: Pick the shortest nearby hike 
+### Task 1: Pick the shortest nearby hike 
 
-### Task 2**: Identify a plant from the Rosaceae family 
+### Task 2: Identify a plant from the Rosaceae family 
 
 The participant for our second usability test was a junior attending Williams College. As we indicated in our future plans from the usability test check-in, for this test and the third test, we tried to emphasize diversity in the experience levels of the students that we had perform the test. Thus, this student was one who had minimal experience with hiking, but enjoyed the idea of walking around in nature. We thought that through bringing in the experience of a user like this, we might be able to see if our design was simple and informative enough to be beneficial to a beginner user rather than confusing. Like the last test, this one was conducted in Eco Café at night as the location was quiet which allowed everyone to focus on the task. For this test, Rudy was the main person interacting with the user while Gaurnett played the part of the computer and Eric took notes.
  
@@ -29,9 +29,9 @@ The nearby hike wasn’t a hike that they were particularly interested in hiking
 
 ## Usability Test 3
 
-### Task 1***: Find a hike with a 4 star rating 
+### Task 1: Find a hike with a 4 star rating 
 
-### Task 2***: Identify an animal 
+### Task 2: Identify an animal 
 
 Usability Test 3: The participant for our third usability test was a junior attending Williams College. This time around the participant was an expert at hiking with them frequently going on short hikes alone and longer hikes as part of WOC. Like the other tests, this was performed in Eco Café during the evening when the area was not being utilized by many students. For this test, we wanted to emphasize finding possible ways in which our design may not be intuitive for people who have experience hiking. As our design team does not consist of hiking experts, we thought it would be important to see if both the navigation and wildlife identification aspects of hikAR were intuitive for a frequent hiker. For this particular test, we had Eric take the lead on guiding the user while Rudy moved the pieces of the paper prototype around and Gaurnett took notes on what he observed.
  
