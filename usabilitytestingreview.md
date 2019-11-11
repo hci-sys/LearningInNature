@@ -6,6 +6,7 @@ title: Usability Testing Review
 ## Usability Test 1
 
 ### Task 1: Begin and finish a navigation for Stone Hill
+
 ### Task 2:  Identify and learn about 2 different plant species 
 
 The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after- hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our user. Rudy and Eric assisted with making notes about what happened during the test such as the user feedback and questions during the test, flaws in the design that led to the customer performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the user.
@@ -47,7 +48,7 @@ The general process of the test was the same as for the first usability test wit
 
 ## Usability Test 3
 
-### Task 1: Find a hike with a 4 star rating 
+### Task 1: Find a hike with a 5 star rating 
 
 ### Task 2: Identify an animal 
 
