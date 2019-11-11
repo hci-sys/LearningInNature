@@ -24,8 +24,7 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
-| Real World Mapping | 
-The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
+| Real World Mapping | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
 
 | Description |
 | :----: |
