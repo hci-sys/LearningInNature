@@ -50,7 +50,7 @@ The general process of the test was the same as for the first usability test wit
 | Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 | Add a feature to submit and rate a hike based on a 5 star rating. This will allow our users to give feeback on the hikes that they have completed to assist us in providing great recommendations for our users who use the app. |
 
 #### Revision 1
-![Revision for second usability test](/img/test2_rev1.jpeg)
+![Revision for second usability test](/img/test2_rev1.jpg)
 
 #### Issues Overview Positive
 
