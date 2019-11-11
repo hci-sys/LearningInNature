@@ -37,7 +37,7 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
-| Real World Mapping | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
+| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
 
 #### Issues Overview Positive
 
@@ -59,8 +59,8 @@ Considering the success we had with offering little information to the user as t
 
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
-| Real World Mapping | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 |
-| Real World Mapping | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 2 |
+| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 |
+| Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 |
 
 #### Issues Overview Positive
 
