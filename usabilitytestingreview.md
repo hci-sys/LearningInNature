@@ -47,7 +47,7 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity | Revision |
 | :----: | :----: | :----: | :----: |
-| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 | Add a feature to submit and rate a hike based on a 5 star rating. This will allow our users to give feeback on the hikes that they have completed to assist us in providing great recommendations for our users who use the app. |
+| Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 
 #### Revision 1
 ![Revision for second usability test](/img/test2_rev1.jpg)
@@ -62,7 +62,7 @@ Here we have changed the "leave a rating" system to provide the user with more f
 
 ## Usability Test 3
 
-### Task 1: Find a hike with a 5 star rating 
+### Task 1: Find a hike with a 5 star rating and leave a rating 
 
 ![Taskflow for finding a hike with a 5 star rating](/img/task3.jpeg)
 
