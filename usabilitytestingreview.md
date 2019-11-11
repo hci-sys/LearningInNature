@@ -18,11 +18,14 @@ The participant for our second usability test was a junior attending Williams Co
  
 The general process of the test was the same as for the first usability test with us starting by explaining the purpose of the test and the two tasks we wanted the user to perform. The tasks that we gave the user for this test were a bit more specific in that we asked the user to pick the shortest nearby hike and begin navigation for that route and we asked them to identify a wildlife that they observe in their Biology Class. One key difference though was that we aimed to provide a bit less guidance than we did in the first test by encouraging the user to think a little deeper about some of the questions they had rather than answering every question about functionality and what different buttons did. From this, one useful issue that we observed was that the user was confused about whether or not they had correctly signed up for an account as we went straight from them clicking sign-in to the trail search screen. Slightly before that issue, the user tried to press log-in after inputting their username and password without signing up first so we figured that there should be an error message in the case where the user has not created an account or has entered their information incorrectly so that there is some feedback for the user to realize that they first need to sign-up.
 
-Incident One (Negative):
-The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting.
+| Heuristic Broken | Description | Severity |
+| :----: | :----: | :----: |
+| Real World Mapping | 
+The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
 
-Incident Two (Positive):
-They said the identifying feature was very useful and can become handy to a lot of students who aren’t just looking for identifying things in the wild but also identifying other nature based things that they interact with regularly
+| Description |
+| :----: |
+| They said the identifying feature was very useful and can become handy to a lot of students who aren’t just looking for identifying things in the wild but also identifying other nature based things that they interact with regularly |
 
 ## Usability Test 3
 
@@ -39,8 +42,9 @@ Considering the success we had with offering little information to the user as t
 | Real World Mapping | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 |
 | Real World Mapping | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 2 |
 
-Incident Two (Positive):
-The user liked that we had a recommendation system based on the hiking experience of other users. This will help other users to get a better sense of what is around them.
+| Description |
+| :----: |
+| The user liked that we had a recommendation system based on the hiking experience of other users. This will help other users to get a better sense of what is around them. |
  
 ## Important Revisions
 
