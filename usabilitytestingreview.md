@@ -11,6 +11,17 @@ title: Usability Testing Review
 The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after- hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our user. Rudy and Eric assisted with making notes about what happened during the test such as the user feedback and questions during the test, flaws in the design that led to the customer performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the user.
  
 We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the tasks one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button.
+
+#### Issues Overview 
+
+| Heuristic Broken | Description | Severity |
+| :----: | :----: | :----: |
+| Recognition | No signup button | 4 |
+| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
+| Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 |
+
+![Mobile App](/img/identification.JPG)
+![Mobile App](/img/navigation.JPG)
  
 ## Usability Test 2
 
@@ -22,9 +33,13 @@ The participant for our second usability test was a junior attending Williams Co
  
 The general process of the test was the same as for the first usability test with us starting by explaining the purpose of the test and the two tasks we wanted the user to perform. The tasks that we gave the user for this test were a bit more specific in that we asked the user to pick the shortest nearby hike and begin navigation for that route and we asked them to identify a wildlife that they observe in their Biology Class. One key difference though was that we aimed to provide a bit less guidance than we did in the first test by encouraging the user to think a little deeper about some of the questions they had rather than answering every question about functionality and what different buttons did. From this, one useful issue that we observed was that the user was confused about whether or not they had correctly signed up for an account as we went straight from them clicking sign-in to the trail search screen. Slightly before that issue, the user tried to press log-in after inputting their username and password without signing up first so we figured that there should be an error message in the case where the user has not created an account or has entered their information incorrectly so that there is some feedback for the user to realize that they first need to sign-up.
 
+#### Issues Overview Negative
+
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
 | Real World Mapping | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
+
+#### Issues Overview Positive
 
 | Description |
 | :----: |
@@ -40,10 +55,14 @@ Usability Test 3: The participant for our third usability test was a junior atte
  
 Considering the success we had with offering little information to the user as they worked through their assigned tasks, we implemented the same game plan for this test as we did for our second usability test. We explained a bit about our project and how the user’s help would be critical to improving our design as a whole before explaining the two tasks that we wanted them to achieve. This time we asked our user to navigate to a hike based on our recommendation system. We asked them to pick a hike that was rated 5 stars and identify an animal that is running around at the school.
 
+#### Issues Overview Negative
+
 | Heuristic Broken | Description | Severity |
 | :----: | :----: | :----: |
 | Real World Mapping | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 |
 | Real World Mapping | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 2 |
+
+#### Issues Overview Positive
 
 | Description |
 | :----: |
