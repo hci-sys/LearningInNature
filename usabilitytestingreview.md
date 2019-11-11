@@ -47,7 +47,7 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity | Revision |
 | :----: | :----: | :----: | :----: |
-| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by rating and difficulty to allow users to quickly find routes that meet their preferences |
+| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 | Add a feature to submit and rate a hike based on a 5 star rating. This will allow our users to give feeback on the hikes that they have completed to assist us in providing great recommendations for our users who use the app. |
 
 #### Issues Overview Positive
 
@@ -75,7 +75,7 @@ Considering the success we had with offering little information to the user as t
 
 | Heuristic Broken | Description | Severity | Revisions |
 | :----: | :----: | :----: | :----: |
-| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Add a feature to submit and rate a hike based on a 5 star rating. This will allow our users to give feeback on the hikes that they have completed to assist us in providing great recommendations for our users who use the app |
+| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
 | Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
 
 #### Issues Overview Positive
