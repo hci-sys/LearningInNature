@@ -31,7 +31,7 @@ We introduced the project by giving a synopsis of the problem that we are trying
 
 ### Task 1: Pick the shortest nearby hike 
 
-![Taskflow for picking the shortest nearby hike](/img/task1.jpeg)
+![Taskflow for picking the shortest nearby hike](/img/task1.jpg)
 
 ### Task 2: Identify a plant from the Rosaceae family 
 
