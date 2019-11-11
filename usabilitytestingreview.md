@@ -7,11 +7,11 @@ title: Usability Testing Review
 
 ### Task 1: Begin and finish a navigation for Stone Hill
 
-![Mobile App](/img/identification.JPG)
+![Mobile App](/img/navigation.JPG)
 
 ### Task 2:  Identify and learn about 2 different plant species 
 
-![Mobile App](/img/navigation.JPG)
+![Mobile App](/img/identification.JPG)
 
 ### Summary
 
