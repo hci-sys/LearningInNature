@@ -29,7 +29,7 @@ We introduced the project by giving a synopsis of the problem that we are trying
  
 ## Usability Test 2
 
-### Task 1: Pick the shortest nearby hike 
+### Task 1: Pick the shortest nearby hike and leave a rating
 
 ![Taskflow for picking the shortest nearby hike](/img/task1.jpg)
 
@@ -51,6 +51,8 @@ The general process of the test was the same as for the first usability test wit
 
 #### Revision 1
 ![Revision for second usability test](/img/test2_rev1.jpg)
+
+Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
 
 #### Issues Overview Positive
 
@@ -85,9 +87,13 @@ Considering the success we had with offering little information to the user as t
 
 ![First revision for third usability test](/img/test3_rev1.jpeg)
 
+We have added a filter function so that users who didn't realize you can scroll/don't want to can find hikes with this instead. 
+
 #### Revision 2
 
 ![Second revision for third usability test](/img/test3_rev2.jpeg)
+
+We have changed our camera taking function so that there are 3 different focal sizes for image taking. This way, it will be easier for users to take images from more distances. Also, while not on the paper, if a user double taps the focal area, a picture will be taken. 
 
 #### Issues Overview Positive
 
