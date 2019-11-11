@@ -35,9 +35,9 @@ The general process of the test was the same as for the first usability test wit
 
 #### Issues Overview Negative
 
-| Heuristic Broken | Description | Severity |
-| :----: | :----: | :----: |
-| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 |
+| Heuristic Broken | Description | Severity | Revision |
+| :----: | :----: | :----: | :----: |
+| Recognition | The nearby hike wasn’t a hike that they were particularly interested in hiking. The user said that this might cause other users to not use our app if the trails nearby isn’t what they find fun/exciting. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by rating and difficulty to allow users to quickly find routes that meet their preferences |
 
 #### Issues Overview Positive
 
