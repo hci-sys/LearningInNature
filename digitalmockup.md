@@ -6,6 +6,10 @@ title: Digital Mockup
 
 Our digital mockup was created in Balsamiq and is largely consistent with our final paper prototype. Some minor changes were made though as a result of seeing our design in digital form. One decision that we made was to add a scrollbar on the wildlife information page as seeing our design in a slightly higher fidelity caused us to realize that the user would likely need to scroll down for the more comprehensive biographies. Another change made was to move the rating given to each hike to the top of their pictures as this made the most sense space-wise. We also decided to adjust the identification icon to have the tree inside of the magnifying glass rather than outside. All other elements of our paper prototype were able to smoothly transition to digital form.
 
+### Task 1: Trail Navigation
+
+After logging in, the user finds themselves at the homescreen, where they can either find trails using the search bar or a combination of the filtering option and nearby trail options. Once the user has selected a trail, they will be brought to the trail info screen where they can see varying key information about the trail. At this point, the user can return to the home screen using the X in the top left corner, or begin navigation by clicking “START NAVIGATION”. Now, let’s say the user has found the trail they are going to hike and begins navigation. From the navigation screen, they can stop navigation by pressing the X again in the top left corner or hike the trail with the guided system until it is over. 
+
 
 ### Task 2: Identifying wildlife
 
