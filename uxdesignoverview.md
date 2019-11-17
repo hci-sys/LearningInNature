@@ -212,7 +212,13 @@ Our user can start this task at any point before, during, or after their hike. H
 
 # Discussion
 
-We learnt a lot about testing and how testing is essential to the redesigning process and fixing the user experience for those who engage in our app. Throughout our testing, we got to pick up on flaws in our design and reshape them to improve our design in several ways. THe process shaped our final design based on the feedback we got from each of our participants. Not only the feedback but the observation we made with how our users interacted with our design. Our tasks have changed to become a bit more specific. For example, instead of asking our users to start a navigation to a hike, we would ask them to start a navigation based on their location or based on the reviews placed by other users. I think we could have used more iterations upon our design. This would allow us to capture a wider target audience and see how people of different levels and needs interact with our app.
+We learnt a lot about testing and how testing is essential to the redesigning process and fixing the user experience for those who engage in our app. Throughout our testing, we got to pick up on flaws in our design and reshape them to improve our design in several ways. This differed from the icons and words used on our app to the layout. Some of the layout was altered when starting the digital mockups because things looked better when they were placed in different spaces. This allowed us to change our design to have a better User Experience
+
+The process shaped our final design based on the feedback we got from each of our participants. Not only the feedback but the observation we made with how our users interacted with our design. For example when our user tapped the focal point to take a picture we decided to change our design so that double tapping that focal point would take a picutre. We also added different screens and pages in order to fix the issues that we found. Adding error messages also helps to improve the implementation of our app.
+
+Our tasks have changed to become a bit more specific. For example, instead of asking our users to start a navigation to a hike, we would ask them to start a navigation based on their location or based on the reviews placed by other users. This allowed us to find more specific problems with the tasks that users would actually perform on a regular bases.
+
+I think we could have used more iterations upon our design. This would allow us to capture a wider target audience and see how people of different levels and needs interact with our app. It would also allow us to improve our design because the more feedback the better. 
 
 # Appendix
 
