@@ -209,3 +209,14 @@ After logging in, the user finds themselves at the homescreen, where they can ei
 ![Prototype Overview](/img/Mockup2.png)
 
 Our user can start this task at any point before, during, or after their hike. However, let’s assume the user starts from the home screen. To begin identification, the user would click on the identification button at the bottom of their screen. The user would then be taken to the camera where they can adjust the size of the camera focus box using a slider. This allows them to take more precise pictures of large objects like trees or wildlife that might be on the move. When their object is within the frame, they can either press the “Identify This” button or tap their screen twice as a slightly faster and more convenient option.  That action brings up a small pop-up informing the user that the app is now checking the quality of the image to ensure accurate identification. If the picture is blurry, the pop-up changes to ask the user to take a better picture. Otherwise, the user receives a pop-up stating that their attempt has succeeded and is given a button to go to the biography of the given object. At any point throughout this process, the user can click on the X button in the upper-left corner to return back to home screen or navigation screen depending on whether active navigation was occurring when the identification button was pressed.
+
+# Discussion
+
+We learnt a lot about testing and how testing is essential to the redesigning process and fixing the user experience for those who engage in our app. Throughout our testing, we got to pick up on flaws in our design and reshape them to improve our design in several ways. THe process shaped our final design based on the feedback we got from each of our participants. Not only the feedback but the observation we made with how our users interacted with our design. Our tasks have changed to become a bit more specific. For example, instead of asking our users to start a navigation to a hike, we would ask them to start a navigation based on their location or based on the reviews placed by other users. I think we could have used more iterations upon our design. This would allow us to capture a wider target audience and see how people of different levels and needs interact with our app.
+
+# Appendix
+
+https://hci-sys.github.io/LearningInNature/paper_prototype/
+https://hci-sys.github.io/LearningInNature/heuristicevaluations/
+https://hci-sys.github.io/LearningInNature/usability_testing_checkin/
+https://hci-sys.github.io/LearningInNature/usabilitytestingreview/
