@@ -82,7 +82,7 @@ The participant for our third usability test was a junior attending Williams Col
  
 Considering the success we had with offering little information to the user as they worked through their assigned tasks, we implemented the same game plan for this test as we did for our second usability test. We explained a bit about our project and how the user’s help would be critical to improving our design as a whole before explaining the two tasks that we wanted them to achieve. This time we asked our user to navigate to a hike based on our recommendation system. We asked them to pick a hike that was rated 5 stars and identify an animal that is running around at the school.
 
-## Refinemnet Retrospective
+## Refinement Retrospective
 
 When we refined our process we took what we found unclear during our previous usability tests and changed it so that it would correctly represent what we want our participants to do. For example at first we asked out participant to start a navigation without being too specific. We switched this method up in our tests afterwards so that things are more clear. For example we asked them to start a navigation to a specific hike, a hike that's nearby them or a hike that's rated a specific way. 
 
@@ -129,17 +129,19 @@ Here we have changed the "leave a rating" system to provide the user with more f
 | Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
 | Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
 
-#### Revision 1
+## Important Revisions
+
+1. A critical issue that was detected during our cognitive walkthrough was the lack of a warning message when quitting navigation. This revision was important because it saves a lot of time and confusion on the part of the user if they accidentally click on the exit button in the corner. If this were to happen during a hike, the user could get lost or frustrated which are both feelings and experiences that hikAR is supposed to address and prevent. While the user could search for the route again and restart routing, the addition of a warning message when the user clicks on the exit button can help prevent that from happening in the first place at minimal cost to the average user.
+
+2. In our third usability test, we found that the user was unable to quickly find a five-star rated trail that matched their expert skill level. Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by rating and difficulty to allow users to quickly find routes that meet their preferences
 
 ![First revision for third usability test](/img/test3_rev1.jpeg)
 
-We have added a filter function so that users who didn't realize you can scroll/don't want to can find hikes with this instead. 
-
-#### Revision 2
+3. Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience.
 
 ![Second revision for third usability test](/img/test3_rev2.jpeg)
 
-We have changed our camera taking function so that there are 3 different focal sizes for image taking. This way, it will be easier for users to take images from more distances. Also, while not on the paper, if a user double taps the focal area, a picture will be taken. 
+4. We have decided to change the image/identification utilities. Now, once a user takes a picture, the app will give feedback on the picture immediately, telling the user to either take the picture again or identifying the plant correctly. This will eliminate the confusion and ambiguity in user action.
 
 #### Issues Overview Positive
 
