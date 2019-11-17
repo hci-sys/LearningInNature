@@ -37,7 +37,7 @@ When the user taps on the identification button it takes them to the camera page
 
 ### Summary
 
-The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after- hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our user. Eric acted as the \"computer\". Rudy assisted with making notes about what happened during the test such as the user feedback and questions during the test, flaws in the design that led to the customer performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the user.
+The participant for our usability test was a sophomore attending Williams College. We chose this participant because she is enthusiastic about hiking and enjoy going on a weekly trip around the beautiful purple valley. With this knowledge, the team figured she would be the perfect candidate to test out our app and to see if our prototype design was somewhat feasible. We conducted our usability test in Eco Cafe, where its central and quiet during after- hours. This allowed us and our participant to focus on the task at hand and provide a space to free the mind and provide a clear discussion. During the usability test, Gaurnett was the main one communicating with our user. Eric acted as the \"computer\". Rudy assisted with making notes about what happened during the test such as the user feedback and questions during the test, flaws in the design that led to the user performing the wrong action thus not receiving her desired result and improvements we can make based on the interaction between Gaurnett and the user.
  
 We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the tasks one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button.
 
@@ -131,11 +131,64 @@ When we refined our process we took what we found unclear during our previous us
 In terms of design refinement, we made our changes based on feedback and observations we saw during our testing. For example we forgot a sign up button so we decided to add one, we changed the icon so that it is more clear what it represents and we changed a few word choices and functionalty limitations tha we observed during testing.
 
 # Testing Results 
-Summarize the results of your paper prototype testing and refinement. Present what you learned about each version of your prototype and what changes you made as a result. This will include changes from your heuristic evaluation, usability testing, and design critique
+
+#### Issues Overview 
+
+| Heuristic Broken | Description | Severity | Revisions |
+| :----: | :----: | :----: | :----: |
+| Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
+| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
+| Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 | If the user double taps the focal point then it will take a picture. |
+
+#### Issues Overview Negative
+
+| Heuristic Broken | Description | Severity | Revision |
+| :----: | :----: | :----: | :----: |
+| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visable |
+| Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
+
+#### Revision 1
+![Revision for second usability test](/img/test2_rev1.jpg)
+
+Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
+
+#### Issues Overview Positive
+
+| Description |
+| :----: |
+| They said the identifying feature was very useful and can become handy to a lot of students who aren’t just looking for identifying things in the wild but also identifying other nature based things that they interact with regularly |
+
+
+#### Issues Overview Negative
+
+| Heuristic Broken | Description | Severity | Revisions |
+| :----: | :----: | :----: | :----: |
+| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
+| Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
+
+#### Revision 1
+
+![First revision for third usability test](/img/test3_rev1.jpeg)
+
+We have added a filter function so that users who didn't realize you can scroll/don't want to can find hikes with this instead. 
+
+#### Revision 2
+
+![Second revision for third usability test](/img/test3_rev2.jpeg)
+
+We have changed our camera taking function so that there are 3 different focal sizes for image taking. This way, it will be easier for users to take images from more distances. Also, while not on the paper, if a user double taps the focal area, a picture will be taken. 
+
+#### Issues Overview Positive
+
+| Description |
+| :----: |
+| The user liked that we had a recommendation system based on the hiking experience of other users. This will help other users to get a better sense of what is around them. |
 
 # Final Prototype Overview
 
 ![Overview of all the pieces of our paper prototype including the revisions](/img/final_overview.jpeg)
+
+The two primary tasks were identification and navigation. However, for each test that we did, these tasks were specified so that we could get more specific results. So for identification, we would ask the user to identifiy something specific to see if they could get it done. This was the same for navigation. The critical aspects of our design would be the error messages and prevention mechanisms implemented to ensure that the user gets the results they want when they want it. We also ensured that all the text and icons were correctly representing what they were intended to do.
 
 # Digital Mockup
 
