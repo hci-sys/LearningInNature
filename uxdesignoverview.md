@@ -11,7 +11,7 @@ subtitle: hikAR ~ A Hiker's Best Friend
  
 # Problem and Solution Overview:
 
-![Man standing on sheer-edge of cliff](/img/.jpg)
+![Man standing on sheer-edge of cliff](/img/problempic.jpg)
 
 People are born adventurers: trailblazing through the woods, trekking across the desert, ever-climbing to higher places.  
 
