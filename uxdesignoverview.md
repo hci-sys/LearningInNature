@@ -74,7 +74,7 @@ The general process of the test was the same as for the first usability test wit
 
 ![Taskflow for identifying a bald eagle in the wild](/img/task4.jpeg)
 
-### Description
+### Summary
  
 Considering the success we had with offering little information to the user as they worked through their assigned tasks, we implemented the same game plan for this test as we did for our second usability test. We explained a bit about our project and how the user’s help would be critical to improving our design as a whole before explaining the two tasks that we wanted them to achieve. This time we asked our user to navigate to a hike based on our recommendation system. We asked them to pick a hike that was rated 5 stars and identify an animal.
 
@@ -121,54 +121,6 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 | Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
 | Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
-
-## Usability Test 1
-
-#### Issues Overview 
-
-| Heuristic Broken | Description | Severity | Revisions |
-| :----: | :----: | :----: | :----: |
-| Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
-| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
-| Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 | If the user double taps the focal point then it will take a picture. |
-
-## Usability Test 2
-
-#### Issues Overview Negative
-
-| Heuristic Broken | Description | Severity | Revision |
-| :----: | :----: | :----: | :----: |
-| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visable |
-| Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
-
-#### Revision 1
-![Scrollbar added for second usability test](/img/test2_rev2.jpeg)
-
-Here we added a visual scroll bar so users can know that they can scroll to see more hikes. 
-
-#### Revision 2
-![Revision for second usability test](/img/test2_rev1.jpg)
-
-Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
-
-#### Issues Overview Positive
-
-| Description |
-| :----: |
-| They said the identifying feature was very useful and can become handy to a lot of students who aren’t just looking for identifying things in the wild but also identifying other nature based things that they interact with regularly |
-
-## Usability Test 3
-
-#### Issues Overview Negative
-
-| Heuristic Broken | Description | Severity | Revisions |
-| :----: | :----: | :----: | :----: |
-| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
-| Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
-
-## Heuristic Revisions
-
-Most of our revisions were based on the navigation aspect of the app. There was no back button integrated and this caused navigating back from the current screen difficult to do. Another issue came from the icons. The identification icon was a bit ambiguous so we redesigned it to make it look better and more direct. We also changed the tab bar to include just one tab instead of two for simplicity. We had also improved the identification functionality to include a help/pop-up message for error indicators on image quality and a square to properly focus what is being identified on the app. Lastly, we updated the navigation view to include the current status of where our hiker currently is relative to their endpoint.
 
 ## Important Revisions
 
