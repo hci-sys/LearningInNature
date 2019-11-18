@@ -48,7 +48,7 @@ For our usability tests, we kept the location consistent and conducted each of t
 
 ### Summary
  
-We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the tasks one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button.
+We introduced the project by giving a synopsis of the problem that we are trying to solve as well as who we are trying to serve. This allowed us to give a general overview of the project and give the participant an idea of what we are trying to do. Afterwards we explained the tasks one by one that we would like her to perform. We then observed her as she went through the app and then made notes on issues that came up. One issue was that we did not have a sign up button on the login screen. Another issue we had was when she tried to identify the plant. She tapped the focal box to take the picture instead of tapping the “Identify This” button. 
  
 ## Usability Test 2
 
@@ -86,6 +86,42 @@ In terms of design refinement, we made our changes based on feedback and observa
 
 # Testing Results 
 
+Much has been learned from our heuristic evaluations, cognitive walkthrough, and usability testing. Here are tables below that summarizes the issues we have encountered and the revisions we have made in response. 
+
+#### Heuristic Evaluations
+| # | Heuristic Broken | Description | Severity | Revision | 
+| :----: | :----: | :----: | :----: | :----: | 
+| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 | Changed identification screen to have a focal point for the camera| 
+| 3 | Control & Freedom | Back button is not present; hard to navigate back | 1 | Added back buttons |
+| 1 | Visibility | Route status doesn't seem to be shown | 1 | Added time/distance indicators on the map |
+| 6 | Recognition | Navigate/identify simple but ambigous | 1 | Removed two-modal icons on bottom and replaced with a single identification button/toggle |
+| 3 | Control & Freedom | Back button is ambiguous, there is no clear way to return to previous view | 4 | Added back buttons |
+| 1 | Visibility | Current screen. Some identification of what the current screen is (i.e. route vs identification) | 3 | Single button mode |
+| 1 | Visibility | Wrong identification/Identification Error. Needs to list the chance that the identification is false | 3 | Added potential error indicators and pop-up messages for feedback |
+| 10/6 | Help/Recognition | Design's ambiguity makes it difficult to figure out where you are in the view | 2 | Single button mode |
+| 4 | Consistency | Search icon is inconsistent with what you're doing (taking a photo) | 2 | Changed the icon to include a tree |
+| 5 | Error Prevention | User presses navigation button when already in navigation mode and nothing happens | 2 | Single button mode |
+
+#### Cognitive Walkthrough
+| Issue | Description | Severity | Revision | 
+| :----: | :----: | :----: | :----: |
+| Visibility | Image/Identification Quality Not Clear | 3 | Changed color feedback system to more binary good/retake picture |
+| Conceptual Model | Unclear action to verify image/identification quality | 3 | Changed color feedback system to more binary good/retake picture | 
+| Labeling/Signifiers | Retaking image option not visible/unclear | 2 | Changed color feedback system to more binary good/retake picture | 
+| Labeling/Signifiers | Start button for navigation is unclear (just says "start") | 2 | Changed to "start navigation" | 
+| Visibility | Stopping Navigation has no error message | 3 | Added error prevention message before exiting navigation | 
+
+#### Usability Testing
+| Heuristic Broken | Description | Severity | Revisions |
+| :----: | :----: | :----: | :----: |
+| Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
+| Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
+| Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 | If the user double taps the focal point then it will take a picture. |
+| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visable |
+| Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
+| Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
+| Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
+
 ## Usability Test 1
 
 #### Issues Overview 
@@ -106,6 +142,11 @@ In terms of design refinement, we made our changes based on feedback and observa
 | Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 
 #### Revision 1
+![Scrollbar added for second usability test](/img/test2_rev2.jpeg)
+
+Here we added a visual scroll bar so users can know that they can scroll to see more hikes. 
+
+#### Revision 2
 ![Revision for second usability test](/img/test2_rev1.jpg)
 
 Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
