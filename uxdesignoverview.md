@@ -1,6 +1,7 @@
 ---
 layout: page
-title: hikAR UX Design Overview
+title: UX Design Overview
+subtitle: hikAR ~ A Hiker's Best Friend
 ---
 
 # Team 
