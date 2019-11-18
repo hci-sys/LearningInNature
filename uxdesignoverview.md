@@ -17,7 +17,7 @@ People are born adventurers: trailblazing through the woods, trekking across the
 
 Without navigation or a certainty of their surroundings however, people cannot accomplish these feats.  
 
-In fact, the life of a hiker is one that is filled with many inconveniences that negatively impact people’s experiences in the wild. Of these problems, one of the most ubiquitous is the lack of a reliable way to navigate on the trails. This problem affects hikers of all experience levels and often prevents outdoor enthusiasts from exploring and going out on new trails for fear of getting lost on an unfamiliar path. Another issue is the inability to have questions about local wildlife answered when out in the wild alone. This inhibits the level of interaction that people have with their environment while out on the trails. Thus, we set out to design a better hiking experience for all to improve their time in nature. 
+In fact, the life of a hiker is one that is filled with many inconveniences that negatively impact people’s experiences in the wild. Of these problems, one of the most ubiquitous is the lack of a reliable way to navigate on the trails. This problem affects hikers of all experience levels and often prevents outdoor enthusiasts from exploring and going out on new trails for fear of getting lost on an unfamiliar path<a href="https://www.themanual.com/outdoors/how-to-not-get-lost-hiking-gear/"><sup>1</sup></a>. Another issue is the inability to have questions about local wildlife answered when out in the wild alone. This inhibits the level of interaction that people have with their environment while out on the trails. Thus, we set out to design a better hiking experience for all to improve their time in nature. 
 
 # Initial Paper Prototype
 
