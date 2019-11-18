@@ -54,6 +54,7 @@ The general process of the test was the same as for the first usability test wit
 ![Scrollbar added for second usability test](/img/test2_rev2.jpeg)
 Here we added a visual scroll bar so users can know that they can scroll to see more hikes. 
 
+#### Revision 2
 ![Revision for second usability test](/img/test2_rev1.jpg)
 
 Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
