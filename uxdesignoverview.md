@@ -92,7 +92,7 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 #### Heuristic Evaluations
 | # | Heuristic Broken | Description | Severity | Revision | 
 | :----: | :----: | :----: | :----: | :----: | 
-| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 | Changed identification screen to have a focal point for the camera| 
+| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 | Changed identification screen to have a focal point for the camera | 
 | 3 | Control & Freedom | Back button is not present; hard to navigate back | 1 | Added back buttons |
 | 1 | Visibility | Route status doesn't seem to be shown | 1 | Added time/distance indicators on the map |
 | 6 | Recognition | Navigate/identify simple but ambigous | 1 | Removed two-modal icons on bottom and replaced with a single identification button/toggle |
