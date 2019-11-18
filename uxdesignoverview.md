@@ -131,7 +131,7 @@ Here we have changed the "leave a rating" system to provide the user with more f
 
 ## Heuristic Revisions
 
-Most of the revisions that needed to be made was based on the navigation around the app. There was no back button integrated and this caused navigating back from the current screen difficult to do. Another issue came from the icons. The identification icon was a bit ambiguous so we redesigned it to make it look better and more direct. We also changed the tab bar to include just one tab instead of two for simplicity. We had also improved the identification functionality to include a help/pop-up message for error indicators on image quality and a square to properly focus what is being identified on the app. Lastly, we updated the navigation view to include the current status of where our hiker currently is relative to their endpoint.
+Most of our revisions were based on the navigation aspect of the app. There was no back button integrated and this caused navigating back from the current screen difficult to do. Another issue came from the icons. The identification icon was a bit ambiguous so we redesigned it to make it look better and more direct. We also changed the tab bar to include just one tab instead of two for simplicity. We had also improved the identification functionality to include a help/pop-up message for error indicators on image quality and a square to properly focus what is being identified on the app. Lastly, we updated the navigation view to include the current status of where our hiker currently is relative to their endpoint.
 
 ## Important Revisions
 
