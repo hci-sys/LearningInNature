@@ -26,7 +26,9 @@ We introduced the project by giving a synopsis of the problem that we are trying
 | Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
 | Control & Freedom | Wanted to click the nearby trails before searching (need to add screens for that)| 1 |
 | Real World Mapping | Clicked the focal point instead of the "take a picture" button | 2 | If the user double taps the focal point then it will take a picture. |
- 
+
+More on [Usability Test 1](https://hci-sys.github.io/LearningInNature/usability_testing_checkin/)
+
 ## Usability Test 2
 
 ### Task 1: Pick the shortest nearby hike and leave a rating
@@ -93,7 +95,7 @@ Considering the success we had with offering little information to the user as t
 
 ![First revision for third usability test](/img/test3_rev1.jpeg)
 
-We have added a filter function so that users who didn't realize you can scroll/don't want to can find hikes with this instead. 
+We have added a filter function so that users who didn't realize you can scroll/don't want to can find hikes with this instead and so that users could have more preferences in what kind of trails show up on the main screen.
 
 #### Revision 2
 
