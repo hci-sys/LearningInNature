@@ -52,6 +52,7 @@ The general process of the test was the same as for the first usability test wit
 
 #### Revision 1
 ![Scrollbar added for second usability test](/img/test2_rev2.jpeg)
+
 Here we added a visual scroll bar so users can know that they can scroll to see more hikes. 
 
 #### Revision 2
