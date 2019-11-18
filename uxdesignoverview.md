@@ -15,9 +15,9 @@ subtitle: hikAR ~ A Hiker's Best Friend
 
 People are born adventurers: trailblazing through the woods, trekking across the desert, ever-climbing to higher places.  
 
-Without navigation or a certainty of their surroundings however, people cannot accomplish these feats.  
+Without navigation or certainty of their surroundings however, people cannot accomplish these feats, in fact.
 
-In fact, the life of a hiker is one that is filled with many inconveniences that negatively impact people’s experiences in the wild. Of these problems, one of the most ubiquitous is the lack of a reliable way to navigate on the trails. This problem affects hikers of all experience levels and often prevents outdoor enthusiasts from exploring and going out on new trails for fear of getting lost on an unfamiliar path<a href="https://www.themanual.com/outdoors/how-to-not-get-lost-hiking-gear/"><sup>1</sup></a>. Another issue is the inability to have questions about local wildlife answered when out in the wild alone. This inhibits the level of interaction that people have with their environment while out on the trails. Thus, we set out to design a better hiking experience for all to improve their time in nature. 
+The life of a hiker is one that is filled with many inconveniences that negatively impact people’s experiences in the wild. Of these problems, one of the most ubiquitous is the lack of a reliable way to navigate on the trails. This problem affects hikers of all experience levels and often prevents outdoor enthusiasts from exploring and going out on new trails for fear of getting lost on an unfamiliar path<a href="https://www.themanual.com/outdoors/how-to-not-get-lost-hiking-gear/"><sup>1</sup></a>. Another issue is the inability to have questions about local wildlife answered when out in the wild alone. This inhibits the level of interaction that people have with their environment while out on the trails. Thus, we set out to design a better hiking experience for all to improve their time in nature. 
 
 # Initial Paper Prototype
 
