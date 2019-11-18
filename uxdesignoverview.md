@@ -89,10 +89,11 @@ In terms of design refinement, we made our changes based on feedback and observa
 
 Much has been learned from our heuristic evaluations, cognitive walkthrough, and usability testing. Here are tables below that summarizes the issues we have encountered and the revisions we have made in response. 
 
-#### Heuristic Evaluations
+#### Heuristic Evaluations  
+
 | # | Heuristic Broken | Description | Severity | Revision | 
 | :----: | :----: | :----: | :----: | :----: | 
-| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 | Changed identification screen to have a focal point for the camera | 
+| 5 | Error Prevention | Pictures don't have a focal point for plant identification | 1 | Changed identification screen to have a focal point for the camera |
 | 3 | Control & Freedom | Back button is not present; hard to navigate back | 1 | Added back buttons |
 | 1 | Visibility | Route status doesn't seem to be shown | 1 | Added time/distance indicators on the map |
 | 6 | Recognition | Navigate/identify simple but ambigous | 1 | Removed two-modal icons on bottom and replaced with a single identification button/toggle |
@@ -104,6 +105,7 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | 5 | Error Prevention | User presses navigation button when already in navigation mode and nothing happens | 2 | Single button mode |
 
 #### Cognitive Walkthrough
+
 | Issue | Description | Severity | Revision | 
 | :----: | :----: | :----: | :----: |
 | Visibility | Image/Identification Quality Not Clear | 3 | Changed color feedback system to more binary good/retake picture |
@@ -113,6 +115,7 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | Visibility | Stopping Navigation has no error message | 3 | Added error prevention message before exiting navigation | 
 
 #### Usability Testing
+
 | Heuristic Broken | Description | Severity | Revisions |
 | :----: | :----: | :----: | :----: |
 | Recognition | No signup button | 4 | We added a sign up button to allow our users to sign up for the app. |
