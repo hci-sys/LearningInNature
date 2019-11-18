@@ -47,10 +47,12 @@ The general process of the test was the same as for the first usability test wit
 
 | Heuristic Broken | Description | Severity | Revision |
 | :----: | :----: | :----: | :----: |
-| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visable |
+| Recognition | The user was not aware initially that you could scroll through the nearby hikes | 2 | We will add a scroll bar that is visible |
 | Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 
 #### Revision 1
+![Scrollbar added for second usability test](/img/test2_rev2.jpeg)
+
 ![Revision for second usability test](/img/test2_rev1.jpg)
 
 Here we have changed the "leave a rating" system to provide the user with more feedback. Now, it will be more clear on how to choose how many stars and making sure they submit a rating if they want to. 
