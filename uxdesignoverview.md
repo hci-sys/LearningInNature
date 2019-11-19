@@ -19,23 +19,29 @@ Without navigation or certainty of their surroundings however, people cannot acc
 
 # Initial Paper Prototype
 
+After performing various UX research practices (more [here](https://hci-sys.github.io/LearningInNature/uxresearchoverview/)), we have narrowed down our design to supporting two user tasks. These two tasks include navigating through a desired trail and identifying a piece of wildlife. From our research, we have decided that a mobile app would be the best medium for our design. Our initial paper prototype reflects these decisions and goals. 
+
+The design begins with a log-in screen (not entirely necessary). After logging in, the user would be taken to the home screen which would present them with a list of nearby hikes and a search function. At the bottom of the screen are two icons, one representing the navigation mode and the other representing the identification mode. If a user selects a trail, they will be taken to a trail info screen where they can begin navigation. Otherwise, the user can switch to identification mode where they will be taken to a camera screen where they can take photos to identify wildlife around them. 
+
 ## Overview
 
 ![Prototype Overview](/img/prototype_overview.jpeg)
 
-Our initial design started with an opening screen asking the user to log/sign in to their accounts. This would allow us to authenticate our users and would allow for the creation of accounts for features we plan to implement in the future. After logging in, the user would be taken to the home screen which would present a list of hikes. Each hike entry would have an image and corresponding information such as the length of the hike next to the image. There was also a search bar for users to find hikes. We also included two icons at the bottom of the screen: one for identification and one for navigation. This way, the identification mode could be accessed at any point during the navigation task and vice-versa.
+Here is an overview image of our initial paper prototype. 
 
-## Task One: Navigation
+## Initial Paper Prototype Task One: Navigation
 
 ![First Task](/img/navigation.jpeg)
 
 For this task, we envisioned the user starting on a screen with the summary of the hike. This screen would include the distance of the hike, the difficulty of the hike and the average time that the hike will take. After clicking the start button, it then proceeds to the navigation screen where the user can see the map and directions. The navigation gives the user a detailed scene of the environment they are currently in such as showing tree, water and rivers around them. It navigates the user safely to their destination.
 
-## Task Two: Identification
+## Initial Paper Prototype Task Two: Identification
 
 ![Second Task](/img/identification.jpeg)
 
 At any point throughout the first task, the user can tap on the identification button which would take them to the camera page. Here, they can scan their surroundings for wildlife to identify. After a picture is taken and the wildlife is identified, a bio page comes up. This page includes a picture, the name of the flora or faune being identified and a description of the identified object.
+
+[More on our initial paper prototype here](https://hci-sys.github.io/LearningInNature/paper_prototype/) 
 
 # Testing Process
 
@@ -89,11 +95,13 @@ When we refined our process we took what we found unclear during our previous us
 
 In terms of design refinement, we made our changes based on feedback and observations we saw during our testing. For example we forgot a sign up button so we decided to add one, we changed the icon so that it is more clear what it represents and we changed a few word choices and functionalty limitations that we observed during testing.
 
+[More on the testing process here](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)
+
 # Testing Results 
 
 Much has been learned from our heuristic evaluations, cognitive walkthrough, and usability testing. Here are tables below that summarizes the issues we have encountered and the revisions we have made in response. 
 
-#### Heuristic Evaluations  
+## Heuristic Evaluations  
 
 | # | Heuristic Broken | Description | Severity | Revision | 
 | :----: | :----: | :----: | :----: | :----: | 
@@ -108,7 +116,9 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | 4 | Consistency | Search icon is inconsistent with what you're doing (taking a photo) | 2 | Changed the icon to include a tree |
 | 5 | Error Prevention | User presses navigation button when already in navigation mode and nothing happens | 2 | Single button mode |
 
-#### Cognitive Walkthrough
+[More on heuristic evaluation here](https://hci-sys.github.io/LearningInNature/heuristicevaluations/)
+
+## Cognitive Walkthrough
 
 | Issue | Description | Severity | Revision | 
 | :----: | :----: | :----: | :----: |
@@ -118,7 +128,9 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | Labeling/Signifiers | Start button for navigation is unclear (just says "start") | 2 | Changed to "start navigation" | 
 | Visibility | Stopping Navigation has no error message | 3 | Added error prevention message before exiting navigation | 
 
-#### Usability Testing
+[More on cognitive walkthrough here](https://hci-sys.github.io/LearningInNature/usability_testing_checkin/)
+
+## Usability Testing
 
 | Heuristic Broken | Description | Severity | Revisions |
 | :----: | :----: | :----: | :----: |
@@ -129,6 +141,8 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 | Control and Freedom | The user had initial issues verifying their rating submission and selecting their rating | 3 | We will add more user feedback to the rating system and labels to clarify the rating system |
 | Recognition | We asked our user to pick a hike that was rated 5 stars but there was none nearby that matched his skill level. It seemed as if most of the 5 star rated ones were beginner hikes and they were not ones that will match his recommendations. | 2 | Rather than forcing users to scroll down the list of nearby trails to find one that matches their preferences, we revised our design to include an option that allows the user to filter routes by difficulty to allow users to quickly find routes that meet their preferences |
 | Error Prevention | It was pretty hard to identify the animal because it was moving. To get a good picture of the animal, the user will have to hope that it stops moving so that the perfect shot can be captured | 4 | Another revision that came up was the scaling of the identification camera focal point. For object that are larger than the focal square, it would be more efficient if the user can expand the focal point in order to capture the right image of the object they are trying to find. This will allow them to capture bigger pictures and thus get more out of their experience. |
+
+[More on usability testing here](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)
 
 ## Important Revisions
 
@@ -143,12 +157,6 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 ![Second revision for third usability test](/img/test3_rev2.jpeg)
 
 4. We have decided to change the image/identification utilities. Now, once a user takes a picture, the app will give feedback on the picture immediately, telling the user to either take the picture again or identifying the plant correctly. This will eliminate the confusion and ambiguity in user action.
-
-#### Issues Overview Positive
-
-| Description |
-| :----: |
-| The user liked that we had a recommendation system based on the hiking experience of other users. This will help other users to get a better sense of what is around them. |
 
 # Final Prototype Overview
 
@@ -178,13 +186,17 @@ Our user can start this task at any point before, during, or after their hike. H
 
 # Discussion
 
-We learnt a lot about testing and how testing is essential to the redesigning process and fixing the user experience for those who engage in our app. Throughout our testing, we got to pick up on flaws in our design and reshape them to improve our design in several ways. This differed from the icons and words used on our app to the layout. Some of the layout was altered when starting the digital mockups because things looked better when they were placed in different spaces. This allowed us to change our design to have a better User Experience
+We learnt a lot about testing and how testing is essential to the redesigning process and fixing the user experience for those who engage in our app. Throughout our testing, we got to pick up on flaws in our design and reshape them to improve our design in several ways. This differed from the icons and words used on our app to the layout. Some of the layout was altered when starting the digital mockups because things looked better when they were placed in different spaces. This allowed us to change our design to offer a better User Experience.
 
 The process shaped our final design based on the feedback we got from each of our participants. Not only the feedback but the observation we made with how our users interacted with our design. For example when our user tapped the focal point to take a picture we decided to change our design so that double tapping that focal point would take a picutre. We also added different screens and pages in order to fix the issues that we found. Adding error messages also helps to improve the implementation of our app.
 
 Our tasks have changed to become a bit more specific. For example, instead of asking our users to start a navigation to a hike, we would ask them to start a navigation based on their location or based on the reviews placed by other users. This allowed us to find more specific problems with the tasks that users would actually perform on a regular bases.
 
 I think we could have used more iterations upon our design. This would allow us to capture a wider target audience and see how people of different levels and needs interact with our app. It would also allow us to improve our design because the more feedback the better. 
+
+Our project has gone a long way in a short time: a great learning experience for future solution-designs and building on this one. 
+
+[Presentation](https://hci-sys.github.io/LearningInNature/UX%20hikAR%20Design%20Presentation.pdf)
 
 # Appendix
 
