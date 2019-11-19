@@ -19,15 +19,13 @@ Without navigation or certainty of their surroundings however, people cannot acc
 
 # Initial Paper Prototype
 
+![Prototype Overview](/img/prototype_overview.jpeg)
+
 After performing various UX research practices (more [here](https://hci-sys.github.io/LearningInNature/uxresearchoverview/)), we have narrowed down our design to supporting two user tasks. These two tasks include navigating through a desired trail and identifying a piece of wildlife. From our research, we have decided that a mobile app would be the best medium for our design. Our initial paper prototype reflects these decisions and goals. 
 
 The design begins with a log-in screen (not entirely necessary). After logging in, the user would be taken to the home screen which would present them with a list of nearby hikes and a search function. At the bottom of the screen are two icons, one representing the navigation mode and the other representing the identification mode. If a user selects a trail, they will be taken to a trail info screen where they can begin navigation. Otherwise, the user can switch to identification mode where they will be taken to a camera screen where they can take photos to identify wildlife around them. 
 
-## Overview
-
-![Prototype Overview](/img/prototype_overview.jpeg)
-
-Here is an overview image of our initial paper prototype. 
+Below are several images that take you through the screens for each task on the initial prototype. 
 
 ## Initial Paper Prototype Task One: Navigation
 
@@ -144,6 +142,8 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 
 [More on usability testing here](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)
 
+Here are some important revisions based on the issues we have encountered.
+
 ## Important Revisions
 
 1. A critical issue that was detected during our cognitive walkthrough was the lack of a warning message when quitting navigation. This revision was important because it saves a lot of time and confusion on the part of the user if they accidentally click on the exit button in the corner. If this were to happen during a hike, the user could get lost or frustrated which are both feelings and experiences that hikAR is supposed to address and prevent. While the user could search for the route again and restart routing, the addition of a warning message when the user clicks on the exit button can help prevent that from happening in the first place at minimal cost to the average user.
@@ -164,9 +164,9 @@ Much has been learned from our heuristic evaluations, cognitive walkthrough, and
 
 The two primary tasks were identification and navigation. However, for each test that we did, these tasks were specified so that we could get more specific results. So for identification, we would ask the user to identifiy something specific to see if they could get it done. This was the same for navigation. The critical aspects of our design would be the error messages and prevention mechanisms implemented to ensure that the user gets the results they want when they want it. We also ensured that all the text and icons were correctly representing what they were intended to do.
 
-# Digital Mockup
+[More on our final paper protoype](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)
 
-## Overview
+# Digital Mockup
 
 ![Prototype Overview](/img/Mockupoverview.png)
 
