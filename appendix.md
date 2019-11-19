@@ -19,4 +19,4 @@ subtitle: Deliverables Archive
 * [Usability Testing Review](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)  
 * [Digital Mockup](https://hci-sys.github.io/LearningInNature/digitalmockup/)
 * [UX Design Overview](https://hci-sys.github.io/LearningInNature/uxdesignoverview/)  
-
+* [UX Design Overview Presentation](https://hci-sys.github.io/LearningInNature/UX%20hikAR%20Design%20Presentation.pdf)  
